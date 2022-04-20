@@ -1,0 +1,56 @@
+\begin{thebibliography}{1}
+
+\bibitem{bib:FULLTEXT_inverse_example}
+Fredrik Bostr{\"o}m.
+\newblock Single-cycle kinetics for qcm biosensors for high throughput
+  nanoparticle characterization application, 2016.
+
+\bibitem{bib:PoC_trends}
+Jorge~Ricardo Mejía-Salazar, Kamilla Rodrigues~Cruz, Elsa~María
+  Materón~Vásques, and Osvaldo Novais~de Oliveira~Jr.
+\newblock Microfluidic point-of-care devices: New trends and future prospects
+  for ehealth diagnostics.
+\newblock {\em Sensors}, 20(7), 2020.
+
+\bibitem{bib:TCM}
+David~G. Myszka, Xiaoyi He, Micah Dembo, Thomas~A. Morton, and Byron Goldstein.
+\newblock Extending the range of rate constants available from biacore:
+  Interpreting mass transport-influenced binding data.
+\newblock {\em Biophysical Journal}, 75(2):583--594, 1998.
+
+\bibitem{bib:fabrication_and_application}
+Adelina-Gabriela Niculescu, Cristina Chircov, Alexandra~Cătălina Bîrcă, and
+  Alexandru~Mihai Grumezescu.
+\newblock Fabrication and applications of microfluidic devices: A review.
+\newblock {\em International Journal of Molecular Sciences}, 22(4), 2021.
+
+\bibitem{bib:freundlich_kinetics}
+Patiha, M~Firdaus, S~Wahyuningsih, K~D Nugrahaningtyas, and Y~Hidayat.
+\newblock Derivation and constants determination of the freundlich and
+  (fractal) langmuir adsorption isotherms from kinetics.
+\newblock {\em {IOP} Conference Series: Materials Science and Engineering},
+  333:012010, mar 2018.
+
+\bibitem{bib:phys_chem_hydro_layers}
+Ronald~F. Probstein.
+\newblock {\em Physicochemical Hydrodynamics}, chapter~4, pages 53--107.
+\newblock John Wiley \& Sons, Ltd, 1994.
+
+\bibitem{bib:protein_a_b_ig_g}
+K.~Saha, F.~Bender, and E.~Gizeli.
+\newblock {{C}omparative study of {I}g{G} binding to proteins {G} and {A}:
+  nonequilibrium kinetic and binding constant determination with the acoustic
+  waveguide device}.
+\newblock {\em Anal Chem}, 75(4):835--842, Feb 2003.
+\newblock [DOI:\href{https://dx.doi.org/10.1021/ac0204911}{10.1021/ac0204911}]
+  [PubMed:\href{https://www.ncbi.nlm.nih.gov/pubmed/12622374}{12622374}].
+
+\bibitem{bib:biotin_streptavidin_kinetics}
+M.~Srisa-Art, E.~C. Dyson, A.~J. deMello, and J.~B. Edel.
+\newblock {{M}onitoring of real-time streptavidin-biotin binding kinetics using
+  droplet microfluidics}.
+\newblock {\em Anal Chem}, 80(18):7063--7067, Sep 2008.
+\newblock [DOI:\href{https://dx.doi.org/10.1021/ac801199k}{10.1021/ac801199k}]
+  [PubMed:\href{https://www.ncbi.nlm.nih.gov/pubmed/18712935}{18712935}].
+
+\end{thebibliography}
