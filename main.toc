@@ -9,9 +9,9 @@
 \contentsline {section}{4. Основное содержание}{13}{section*.21}%
 \contentsline {subsection}{4.1. Адсорбция на поверхность бесконечно широкого канала с одним видом сайтов связывания}{13}{section*.22}%
 \contentsline {subsection}{4.2. Адсорбция на поверхность бесконечно широкого канала с двумя видами сайтов связывания}{17}{section*.32}%
-\contentsline {subsection}{4.3. Адсорбция на поверхность канала конечной ширины с двумя видами сайтов связывания}{20}{section*.37}%
-\contentsline {subsection}{4.4. Адсорбция на микросферах}{20}{section*.38}%
-\contentsline {section}{5. Материалы и методы}{20}{section*.42}%
-\contentsline {section}{6. Результаты и обсуждение}{20}{section*.43}%
-\contentsline {section}{7. Заключение}{20}{section*.44}%
-\contentsline {section}{8. Выводы}{20}{section*.45}%
+\contentsline {subsection}{4.3. Адсорбция на поверхность канала конечной ширины с двумя видами сайтов связывания}{24}{section*.43}%
+\contentsline {subsection}{4.4. Адсорбция на микросферах}{24}{section*.44}%
+\contentsline {section}{5. Материалы и методы}{24}{section*.48}%
+\contentsline {section}{6. Результаты и обсуждение}{24}{section*.49}%
+\contentsline {section}{7. Заключение}{24}{section*.50}%
+\contentsline {section}{8. Выводы}{24}{section*.51}%
