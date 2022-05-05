@@ -5,44 +5,46 @@ The style file: plain.bst
 Database file #1: bibliography.bib
 Database file #2: bib/springer_handbook.bib
 Database file #3: bib/phys_chem_hydro_layers.bib
-You've used 8 entries,
+Warning--empty booktitle in bib:adsorption_reaction_principles
+You've used 15 entries,
             2118 wiz_defined-function locations,
-            561 strings with 6188 characters,
-and the built_in function-call counts, 2832 in all, are:
-= -- 265
-> -- 157
+            612 strings with 8213 characters,
+and the built_in function-call counts, 5395 in all, are:
+= -- 516
+> -- 296
 < -- 2
-+ -- 62
-- -- 54
-* -- 225
-:= -- 486
-add.period$ -- 25
-call.type$ -- 8
-change.case$ -- 50
++ -- 117
+- -- 102
+* -- 436
+:= -- 927
+add.period$ -- 50
+call.type$ -- 15
+change.case$ -- 95
 chr.to.int$ -- 0
-cite$ -- 8
-duplicate$ -- 92
-empty$ -- 205
-format.name$ -- 54
-if$ -- 575
+cite$ -- 16
+duplicate$ -- 171
+empty$ -- 389
+format.name$ -- 102
+if$ -- 1087
 int.to.chr$ -- 0
-int.to.str$ -- 8
-missing$ -- 8
-newline$ -- 44
-num.names$ -- 16
-pop$ -- 47
+int.to.str$ -- 15
+missing$ -- 15
+newline$ -- 83
+num.names$ -- 30
+pop$ -- 80
 preamble$ -- 1
-purify$ -- 43
+purify$ -- 81
 quote$ -- 0
-skip$ -- 67
+skip$ -- 116
 stack$ -- 0
-substring$ -- 158
-swap$ -- 16
+substring$ -- 329
+swap$ -- 23
 text.length$ -- 2
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 30
-warning$ -- 0
-while$ -- 24
-width$ -- 9
-write$ -- 91
+type$ -- 58
+warning$ -- 1
+while$ -- 48
+width$ -- 17
+write$ -- 175
+(There was 1 warning)

@@ -1,9 +1,37 @@
-\begin{thebibliography}{1}
+\begin{thebibliography}{10}
+
+\bibitem{bib:biosensor_intro}
+N.~Bhalla, P.~Jolly, N.~Formisano, and P.~Estrela.
+\newblock {{I}ntroduction to biosensors}.
+\newblock {\em Essays Biochem}, 60(1):1--8, 06 2016.
+\newblock [PubMed
+  Central:\href{https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4986445}{PMC4986445}]
+  [DOI:\href{https://dx.doi.org/10.1042/EBC20150001}{10.1042/EBC20150001}]
+  [PubMed:\href{https://www.ncbi.nlm.nih.gov/pubmed/20151038}{20151038}].
 
 \bibitem{bib:FULLTEXT_inverse_example}
 Fredrik Bostr{\"o}m.
 \newblock Single-cycle kinetics for qcm biosensors for high throughput
   nanoparticle characterization application, 2016.
+
+\bibitem{bib:microfluidic_protein_chromatography}
+F.~A. Gomez.
+\newblock {{M}icrofluidics in protein chromatography}.
+\newblock {\em Methods Mol Biol}, 681:137--150, 2011.
+\newblock
+  [DOI:\href{https://dx.doi.org/10.1007/978-1-60761-913-0\_8}{10.1007/978-1-60761-913-0\_8}]
+  [PubMed:\href{https://www.ncbi.nlm.nih.gov/pubmed/20978964}{20978964}].
+
+\bibitem{bib:early_chromatograph}
+A.~Manz, Y.~Miyahara, J.~Miura, Y.~Watanabe, H.~Miyagi, and K.~Sato.
+\newblock Design of an open-tubular column liquid chromatograph using silicon
+  chip technology.
+\newblock {\em Sensors and Actuators B: Chemical}, 1(1):249--255, 1990.
+
+\bibitem{bib:adsorption_reaction_principles}
+Richard~I. Masel.
+\newblock Principles of adsorption and reaction on solid surfaces.
+\newblock Wiley Interscience, 1996.
 
 \bibitem{bib:PoC_trends}
 Jorge~Ricardo Mejía-Salazar, Kamilla Rodrigues~Cruz, Elsa~María
@@ -52,5 +80,30 @@ M.~Srisa-Art, E.~C. Dyson, A.~J. deMello, and J.~B. Edel.
 \newblock {\em Anal Chem}, 80(18):7063--7067, Sep 2008.
 \newblock [DOI:\href{https://dx.doi.org/10.1021/ac801199k}{10.1021/ac801199k}]
   [PubMed:\href{https://www.ncbi.nlm.nih.gov/pubmed/18712935}{18712935}].
+
+\bibitem{bib:marker_effect}
+Y.~S. Sun, J.~P. Landry, Y.~Y. Fei, X.~D. Zhu, J.~T. Luo, X.~B. Wang, and K.~S.
+  Lam.
+\newblock {{E}ffect of fluorescently labeling protein probes on kinetics of
+  protein-ligand reactions}.
+\newblock {\em Langmuir}, 24(23):13399--13405, Dec 2008.
+\newblock [PubMed
+  Central:\href{https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2721158}{PMC2721158}]
+  [DOI:\href{https://dx.doi.org/10.1021/la802097z}{10.1021/la802097z}]
+  [PubMed:\href{https://www.ncbi.nlm.nih.gov/pubmed/18566623}{18566623}].
+
+\bibitem{bib:droplet_microfluidics_review}
+Pingan Zhu and Liqiu Wang.
+\newblock Passive and active droplet generation with microfluidics: a review.
+\newblock {\em Lab on a chip}, 17(1):34—75, December 2016.
+
+\bibitem{bib:capillary_protein_electrophoresis}
+Z.~Zhu, J.~J. Lu, and S.~Liu.
+\newblock {{P}rotein separation by capillary gel electrophoresis: a review}.
+\newblock {\em Anal Chim Acta}, 709:21--31, Jan 2012.
+\newblock [PubMed
+  Central:\href{https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3227876}{PMC3227876}]
+  [DOI:\href{https://dx.doi.org/10.1016/j.aca.2011.10.022}{10.1016/j.aca.2011.10.022}]
+  [PubMed:\href{https://www.ncbi.nlm.nih.gov/pubmed/11795513}{11795513}].
 
 \end{thebibliography}

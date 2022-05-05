@@ -2,16 +2,19 @@
 \contentsline {section}{1. Обозначения и сокращения}{4}{section*.3}%
 \contentsline {section}{2. Введение}{4}{section*.4}%
 \contentsline {section}{3. Обзор литературы}{4}{section*.5}%
-\contentsline {subsection}{3.1. Микрофабрикация}{4}{section*.6}%
-\contentsline {subsection}{3.2. Микрофлюидика}{5}{section*.7}%
-\contentsline {subsection}{3.3. Математическое описание релевантных физическо-химических процессов}{6}{section*.9}%
-\contentsline {subsection}{3.4. Моделирование в микрофлюидике}{10}{section*.16}%
-\contentsline {section}{4. Основное содержание}{13}{section*.21}%
-\contentsline {subsection}{4.1. Адсорбция на поверхность бесконечно широкого канала с одним видом сайтов связывания}{13}{section*.22}%
-\contentsline {subsection}{4.2. Адсорбция на поверхность бесконечно широкого канала с двумя видами сайтов связывания}{17}{section*.32}%
-\contentsline {subsection}{4.3. Адсорбция на поверхность канала конечной ширины с двумя видами сайтов связывания}{22}{section*.43}%
-\contentsline {subsection}{4.4. Адсорбция на микросферах}{27}{section*.48}%
-\contentsline {section}{5. Материалы и методы}{27}{section*.52}%
-\contentsline {section}{6. Результаты и обсуждение}{27}{section*.53}%
-\contentsline {section}{7. Заключение}{27}{section*.54}%
-\contentsline {section}{8. Выводы}{27}{section*.55}%
+\contentsline {subsection}{3.1. Микрофлюидные аналитические системы}{4}{section*.6}%
+\contentsline {subsection}{3.2. Микрофабрикация}{5}{section*.8}%
+\contentsline {subsection}{3.3. Биосенсоры}{5}{section*.9}%
+\contentsline {subsection}{3.4. Микрофлюидика}{7}{section*.12}%
+\contentsline {subsection}{3.5. Математическое описание релевантных физическо-химических процессов}{7}{section*.13}%
+\contentsline {subsection}{3.6. Моделирование в микрофлюидике}{11}{section*.20}%
+\contentsline {section}{4. Основное содержание}{15}{section*.25}%
+\contentsline {subsection}{4.1. Адсорбция на поверхность бесконечно широкого канала с одним видом сайтов связывания}{15}{section*.26}%
+\contentsline {subsection}{4.2. Адсорбция на поверхность бесконечно широкого канала с двумя видами сайтов связывания}{20}{section*.36}%
+\contentsline {subsection}{4.3. Адсорбция на поверхность канала конечной ширины с двумя видами сайтов связывания}{23}{section*.47}%
+\contentsline {subsection}{4.4. Адсорбция на микросферах}{29}{section*.52}%
+\contentsline {section}{5. Материалы и методы}{32}{section*.61}%
+\contentsline {section}{6. Результаты и обсуждение}{32}{section*.62}%
+\contentsline {section}{7. Заключение}{34}{section*.63}%
+\contentsline {section}{8. Выводы}{34}{section*.64}%
+\contentsline {section}{9. Благодарности}{34}{section*.65}%
