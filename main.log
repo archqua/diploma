@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2021/Arch Linux) (preloaded format=pdflatex 2022.4.19)  5 MAY 2022 13:00
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2021/Arch Linux) (preloaded format=pdflatex 2022.4.19)  16 MAY 2022 13:22
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -298,6 +298,14 @@ File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
 \Gin@req@height=\dimen143
 \Gin@req@width=\dimen144
 )
+(/usr/share/texmf-dist/tex/latex/wrapfig/wrapfig.sty
+\wrapoverhang=\dimen145
+\WF@size=\dimen146
+\c@WF@wrappedlines=\count196
+\WF@box=\box50
+\WF@everypar=\toks19
+Package: wrapfig 2003/01/31  v 3.6
+)
 (/usr/share/texmf-dist/tex/latex/amsmath/amsmath.sty
 Package: amsmath 2021/10/15 v2.17l AMS math features
 \@mathmargin=\skip49
@@ -308,51 +316,51 @@ Package: amstext 2021/08/26 v2.01 AMS text
 
 (/usr/share/texmf-dist/tex/latex/amsmath/amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
-\@emptytoks=\toks19
-\ex@=\dimen145
+\@emptytoks=\toks20
+\ex@=\dimen147
 ))
 (/usr/share/texmf-dist/tex/latex/amsmath/amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
-\pmbraise@=\dimen146
+\pmbraise@=\dimen148
 )
 (/usr/share/texmf-dist/tex/latex/amsmath/amsopn.sty
 Package: amsopn 2021/08/26 v2.02 operator names
 )
-\inf@bad=\count196
+\inf@bad=\count197
 LaTeX Info: Redefining \frac on input line 234.
-\uproot@=\count197
-\leftroot@=\count198
+\uproot@=\count198
+\leftroot@=\count199
 LaTeX Info: Redefining \overline on input line 399.
-\classnum@=\count199
-\DOTSCASE@=\count266
+\classnum@=\count266
+\DOTSCASE@=\count267
 LaTeX Info: Redefining \ldots on input line 496.
 LaTeX Info: Redefining \dots on input line 499.
 LaTeX Info: Redefining \cdots on input line 620.
-\Mathstrutbox@=\box50
-\strutbox@=\box51
-\big@size=\dimen147
+\Mathstrutbox@=\box51
+\strutbox@=\box52
+\big@size=\dimen149
 LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
 LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
-\macc@depth=\count267
-\c@MaxMatrixCols=\count268
+\macc@depth=\count268
+\c@MaxMatrixCols=\count269
 \dotsspace@=\muskip16
-\c@parentequation=\count269
-\dspbrk@lvl=\count270
-\tag@help=\toks20
-\row@=\count271
-\column@=\count272
-\maxfields@=\count273
-\andhelp@=\toks21
-\eqnshift@=\dimen148
-\alignsep@=\dimen149
-\tagshift@=\dimen150
-\tagwidth@=\dimen151
-\totwidth@=\dimen152
-\lineht@=\dimen153
-\@envbody=\toks22
+\c@parentequation=\count270
+\dspbrk@lvl=\count271
+\tag@help=\toks21
+\row@=\count272
+\column@=\count273
+\maxfields@=\count274
+\andhelp@=\toks22
+\eqnshift@=\dimen150
+\alignsep@=\dimen151
+\tagshift@=\dimen152
+\tagwidth@=\dimen153
+\totwidth@=\dimen154
+\lineht@=\dimen155
+\@envbody=\toks23
 \multlinegap=\skip50
 \multlinetaggap=\skip51
-\mathdisplay@stack=\toks23
+\mathdisplay@stack=\toks24
 LaTeX Info: Redefining \[ on input line 2938.
 LaTeX Info: Redefining \] on input line 2939.
 )
@@ -369,53 +377,53 @@ Package: amssymb 2013/01/14 v3.01 AMS font symbols
 )
 (/usr/share/texmf-dist/tex/latex/amscls/amsthm.sty
 Package: amsthm 2020/05/29 v2.20.6
-\thm@style=\toks24
-\thm@bodyfont=\toks25
-\thm@headfont=\toks26
-\thm@notefont=\toks27
-\thm@headpunct=\toks28
+\thm@style=\toks25
+\thm@bodyfont=\toks26
+\thm@headfont=\toks27
+\thm@notefont=\toks28
+\thm@headpunct=\toks29
 \thm@preskip=\skip52
 \thm@postskip=\skip53
 \thm@headsep=\skip54
-\dth@everypar=\toks29
+\dth@everypar=\toks30
 )
 (/usr/share/texmf-dist/tex/latex/mathtools/mathtools.sty
 Package: mathtools 2022/02/07 v1.28a mathematical typesetting tools
 
 (/usr/share/texmf-dist/tex/latex/tools/calc.sty
 Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
-\calc@Acount=\count274
-\calc@Bcount=\count275
-\calc@Adimen=\dimen154
-\calc@Bdimen=\dimen155
+\calc@Acount=\count275
+\calc@Bcount=\count276
+\calc@Adimen=\dimen156
+\calc@Bdimen=\dimen157
 \calc@Askip=\skip55
 \calc@Bskip=\skip56
 LaTeX Info: Redefining \setlength on input line 80.
 LaTeX Info: Redefining \addtolength on input line 81.
-\calc@Ccount=\count276
+\calc@Ccount=\count277
 \calc@Cskip=\skip57
 )
 (/usr/share/texmf-dist/tex/latex/mathtools/mhsetup.sty
 Package: mhsetup 2021/03/18 v1.4 programming setup (MH)
 )
-\g_MT_multlinerow_int=\count277
-\l_MT_multwidth_dim=\dimen156
+\g_MT_multlinerow_int=\count278
+\l_MT_multwidth_dim=\dimen158
 \origjot=\skip58
-\l_MT_shortvdotswithinadjustabove_dim=\dimen157
-\l_MT_shortvdotswithinadjustbelow_dim=\dimen158
-\l_MT_above_intertext_sep=\dimen159
-\l_MT_below_intertext_sep=\dimen160
-\l_MT_above_shortintertext_sep=\dimen161
-\l_MT_below_shortintertext_sep=\dimen162
-\xmathstrut@box=\box52
-\xmathstrut@dim=\dimen163
+\l_MT_shortvdotswithinadjustabove_dim=\dimen159
+\l_MT_shortvdotswithinadjustbelow_dim=\dimen160
+\l_MT_above_intertext_sep=\dimen161
+\l_MT_below_intertext_sep=\dimen162
+\l_MT_above_shortintertext_sep=\dimen163
+\l_MT_below_shortintertext_sep=\dimen164
+\xmathstrut@box=\box53
+\xmathstrut@dim=\dimen165
 )
 (/usr/share/texmf-dist/tex/latex/siunitx/siunitx.sty
 Package: siunitx 2022-02-15 v3.0.49 A comprehensive (SI) units package
-\l__siunitx_angle_tmp_dim=\dimen164
-\l__siunitx_angle_marker_box=\box53
-\l__siunitx_angle_unit_box=\box54
-\l__siunitx_compound_count_int=\count278
+\l__siunitx_angle_tmp_dim=\dimen166
+\l__siunitx_angle_marker_box=\box54
+\l__siunitx_angle_unit_box=\box55
+\l__siunitx_compound_count_int=\count279
 
 (/usr/share/texmf-dist/tex/latex/translations/translations.sty
 Package: translations 2022/02/05 v1.12 internationalization of LaTeX2e packages
@@ -423,7 +431,7 @@ Package: translations 2022/02/05 v1.12 internationalization of LaTeX2e packages
 
 (/usr/share/texmf-dist/tex/latex/etoolbox/etoolbox.sty
 Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count279
+\etb@tempcnta=\count280
 )
 (/usr/share/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
 Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
@@ -442,23 +450,23 @@ Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
 ))
-\l__siunitx_number_exponent_fixed_int=\count280
-\l__siunitx_number_min_decimal_int=\count281
-\l__siunitx_number_min_integer_int=\count282
-\l__siunitx_number_round_precision_int=\count283
-\l__siunitx_number_group_minimum_int=\count284
-\l__siunitx_table_tmp_box=\box55
-\l__siunitx_table_tmp_dim=\dimen165
-\l__siunitx_table_column_width_dim=\dimen166
-\l__siunitx_table_integer_box=\box56
-\l__siunitx_table_decimal_box=\box57
-\l__siunitx_table_before_box=\box58
-\l__siunitx_table_after_box=\box59
-\l__siunitx_table_before_dim=\dimen167
-\l__siunitx_table_carry_dim=\dimen168
-\l__siunitx_unit_tmp_int=\count285
-\l__siunitx_unit_position_int=\count286
-\l__siunitx_unit_total_int=\count287
+\l__siunitx_number_exponent_fixed_int=\count281
+\l__siunitx_number_min_decimal_int=\count282
+\l__siunitx_number_min_integer_int=\count283
+\l__siunitx_number_round_precision_int=\count284
+\l__siunitx_number_group_minimum_int=\count285
+\l__siunitx_table_tmp_box=\box56
+\l__siunitx_table_tmp_dim=\dimen167
+\l__siunitx_table_column_width_dim=\dimen168
+\l__siunitx_table_integer_box=\box57
+\l__siunitx_table_decimal_box=\box58
+\l__siunitx_table_before_box=\box59
+\l__siunitx_table_after_box=\box60
+\l__siunitx_table_before_dim=\dimen169
+\l__siunitx_table_carry_dim=\dimen170
+\l__siunitx_unit_tmp_int=\count286
+\l__siunitx_unit_position_int=\count287
+\l__siunitx_unit_total_int=\count288
 
 (/usr/share/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
 (/usr/share/texmf-dist/tex/latex/l3kernel/expl3.sty
@@ -466,20 +474,20 @@ Package: expl3 2022-02-24 L3 programming layer (loader)
 
 (/usr/share/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2022-02-07 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count288
-\l__pdf_internal_box=\box60
+\l__color_backend_stack_int=\count289
+\l__pdf_internal_box=\box61
 ))
 Package: l3keys2e 2022-01-12 LaTeX2e option processing using LaTeX3 keys
 )
 (/usr/share/texmf-dist/tex/latex/tools/array.sty
 Package: array 2021/10/04 v2.5f Tabular extension package (FMi)
-\col@sep=\dimen169
-\ar@mcellbox=\box61
-\extrarowheight=\dimen170
-\NC@list=\toks30
+\col@sep=\dimen171
+\ar@mcellbox=\box62
+\extrarowheight=\dimen172
+\NC@list=\toks31
 \extratabsurround=\skip59
 \backup@length=\skip60
-\ar@cellbox=\box62
+\ar@cellbox=\box63
 ))
 (/usr/share/texmf-dist/tex/latex/physics/physics.sty
 Package: physics 
@@ -511,9 +519,9 @@ Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
 (/usr/share/texmf-dist/tex/latex/kvoptions/kvoptions.sty
 Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
 )
-\@linkdim=\dimen171
-\Hy@linkcounter=\count289
-\Hy@pagecounter=\count290
+\@linkdim=\dimen173
+\Hy@linkcounter=\count290
+\Hy@pagecounter=\count291
 
 (/usr/share/texmf-dist/tex/latex/hyperref/pd1enc.def
 File: pd1enc.def 2022-02-21 v7.00n Hyperref: PDFDocEncoding definition (HO)
@@ -526,7 +534,7 @@ Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 (/usr/share/texmf-dist/tex/generic/etexcmds/etexcmds.sty
 Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
 )
-\Hy@SavedSpaceFactor=\count291
+\Hy@SavedSpaceFactor=\count292
 
 (/usr/share/texmf-dist/tex/latex/hyperref/puenc.def
 File: puenc.def 2022-02-21 v7.00n Hyperref: PDF Unicode definition (HO)
@@ -541,14 +549,14 @@ Package hyperref Info: Plain pages OFF on input line 4152.
 Package hyperref Info: Backreferencing OFF on input line 4157.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4390.
-\c@Hy@tempcnt=\count292
+\c@Hy@tempcnt=\count293
 
 (/usr/share/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip17
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
 LaTeX Info: Redefining \url on input line 4749.
-\XeTeXLinkMargin=\dimen172
+\XeTeXLinkMargin=\dimen174
 
 (/usr/share/texmf-dist/tex/generic/bitset/bitset.sty
 Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
@@ -557,9 +565,9 @@ Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
 Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
 )
 ))
-\Fld@menulength=\count293
-\Field@Width=\dimen173
-\Fld@charsize=\dimen174
+\Fld@menulength=\count294
+\Field@Width=\dimen175
+\Fld@charsize=\dimen176
 Package hyperref Info: Hyper figures OFF on input line 6027.
 Package hyperref Info: Link nesting OFF on input line 6032.
 Package hyperref Info: Hyper index ON on input line 6035.
@@ -574,9 +582,9 @@ LaTeX Info: Redefining \pageref on input line 6101.
 Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
 package with kernel methods
 )
-\Hy@abspage=\count294
-\c@Item=\count295
-\c@Hfootnote=\count296
+\Hy@abspage=\count295
+\c@Item=\count296
+\c@Hfootnote=\count297
 )
 Package hyperref Info: Driver (autodetected): hpdftex.
 
@@ -588,8 +596,8 @@ Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend pac
 kage
 with kernel methods
 )
-\Fld@listcount=\count297
-\c@bookmark@seq@number=\count298
+\Fld@listcount=\count298
+\c@bookmark@seq@number=\count299
 
 (/usr/share/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
 Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
@@ -610,19 +618,20 @@ Package: caption 2022/03/01 v3.6b Customizing captions (AR)
 
 (/usr/share/texmf-dist/tex/latex/caption/caption3.sty
 Package: caption3 2022/03/17 v2.3b caption3 kernel (AR)
-\caption@tempdima=\dimen175
-\captionmargin=\dimen176
-\caption@leftmargin=\dimen177
-\caption@rightmargin=\dimen178
-\caption@width=\dimen179
-\caption@indent=\dimen180
-\caption@parindent=\dimen181
-\caption@hangindent=\dimen182
+\caption@tempdima=\dimen177
+\captionmargin=\dimen178
+\caption@leftmargin=\dimen179
+\caption@rightmargin=\dimen180
+\caption@width=\dimen181
+\caption@indent=\dimen182
+\caption@parindent=\dimen183
+\caption@hangindent=\dimen184
 Package caption Info: Standard document class detected.
 )
-\c@caption@flags=\count299
-\c@continuedfloat=\count300
+\c@caption@flags=\count300
+\c@continuedfloat=\count301
 Package caption Info: hyperref package is loaded.
+Package caption Info: wrapfig package is loaded.
 ) (./main.aux
 LaTeX Font Info:    Trying to load font information for T2A+cmr on input line 2
 2.
@@ -632,41 +641,41 @@ File: t2acmr.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
 ))
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 43.
-LaTeX Font Info:    ... okay on input line 43.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 43.
-LaTeX Font Info:    ... okay on input line 43.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 43.
-LaTeX Font Info:    ... okay on input line 43.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 43.
-LaTeX Font Info:    ... okay on input line 43.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 43.
-LaTeX Font Info:    ... okay on input line 43.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 43.
-LaTeX Font Info:    ... okay on input line 43.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 43.
-LaTeX Font Info:    ... okay on input line 43.
-LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 43.
-LaTeX Font Info:    ... okay on input line 43.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 43.
-LaTeX Font Info:    ... okay on input line 43.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 43.
-LaTeX Font Info:    ... okay on input line 43.
-LaTeX Info: Redefining \th on input line 43.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 47.
+LaTeX Font Info:    ... okay on input line 47.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 47.
+LaTeX Font Info:    ... okay on input line 47.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 47.
+LaTeX Font Info:    ... okay on input line 47.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 47.
+LaTeX Font Info:    ... okay on input line 47.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 47.
+LaTeX Font Info:    ... okay on input line 47.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 47.
+LaTeX Font Info:    ... okay on input line 47.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 47.
+LaTeX Font Info:    ... okay on input line 47.
+LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 47.
+LaTeX Font Info:    ... okay on input line 47.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 47.
+LaTeX Font Info:    ... okay on input line 47.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 47.
+LaTeX Font Info:    ... okay on input line 47.
+LaTeX Info: Redefining \th on input line 47.
 
 (/usr/share/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count301
-\scratchdimen=\dimen183
-\scratchbox=\box63
-\nofMPsegments=\count302
-\nofMParguments=\count303
-\everyMPshowfont=\toks31
-\MPscratchCnt=\count304
-\MPscratchDim=\dimen184
-\MPnumerator=\count305
-\makeMPintoPDFobject=\count306
-\everyMPtoPDFconversion=\toks32
+\scratchcounter=\count302
+\scratchdimen=\dimen185
+\scratchbox=\box64
+\nofMPsegments=\count303
+\nofMParguments=\count304
+\everyMPshowfont=\toks32
+\MPscratchCnt=\count305
+\MPscratchDim=\dimen186
+\MPnumerator=\count306
+\makeMPintoPDFobject=\count307
+\everyMPtoPDFconversion=\toks33
 ) (/usr/share/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
@@ -685,8 +694,8 @@ File: color.cfg 2016/01/02 v1.6 sample color configuration
 Package color Info: Driver file: pdftex.def on input line 149.
 )
 Package translations Info: no dictionary file `translations-basic-dictionary-.t
-rsl' found. on input line 43.
-Package hyperref Info: Link coloring OFF on input line 43.
+rsl' found. on input line 47.
+Package hyperref Info: Link coloring OFF on input line 47.
 
 (/usr/share/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
@@ -697,11 +706,11 @@ Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 (/usr/share/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count307
+\c@section@level=\count308
 )
-LaTeX Info: Redefining \ref on input line 43.
-LaTeX Info: Redefining \pageref on input line 43.
-LaTeX Info: Redefining \nameref on input line 43.
+LaTeX Info: Redefining \ref on input line 47.
+LaTeX Info: Redefining \pageref on input line 47.
+LaTeX Info: Redefining \nameref on input line 47.
 
 (./main.out) (./main.out)
 \@outlinefile=\write3
@@ -709,9 +718,9 @@ LaTeX Info: Redefining \nameref on input line 43.
 
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
- [1
+ [2
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2] (./main.toc
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (./main.toc
 LaTeX Font Info:    Trying to load font information for U+msa on input line 2.
  (/usr/share/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
@@ -726,416 +735,446 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 
  [3
 
+] [4
+
 ]
-<pic/diagnostic_device_example.jpg, id=128, 89.25345pt x 30.23296pt>
-File: pic/diagnostic_device_example.jpg Graphic file (type jpg)
-<use pic/diagnostic_device_example.jpg>
-Package pdftex.def Info: pic/diagnostic_device_example.jpg  used on input line 
-160.
-(pdftex.def)             Requested size: 329.07603pt x 111.47215pt.
+<pic/miniature_chromatograph_scheme.png, id=127, 863.225pt x 861.2175pt>
+File: pic/miniature_chromatograph_scheme.png Graphic file (type png)
+<use pic/miniature_chromatograph_scheme.png>
+Package pdftex.def Info: pic/miniature_chromatograph_scheme.png  used on input 
+line 227.
+(pdftex.def)             Requested size: 235.05533pt x 234.50299pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 237--244
+[]\T2A/cmr/m/n/12 Зачастую мик-ро-флю-ид-ные ана-ли-ти-че-ские чи-пы пред-став-
+ля-ют из се-бя
+ []
+
+
+Underfull \hbox (badness 1509) in paragraph at lines 237--244
+\T2A/cmr/m/n/12 лабораториях-на-чипе (ЛНЧ, LOC) --- как пра-ви-ло неболь-ших ус
+трой-ствах (чи-
+ []
+
+[5]
+<pic/example_of_diagnostic_device.png, id=146, 1403.2425pt x 450.68375pt>
+File: pic/example_of_diagnostic_device.png Graphic file (type png)
+<use pic/example_of_diagnostic_device.png>
+Package pdftex.def Info: pic/example_of_diagnostic_device.png  used on input li
+ne 268.
+(pdftex.def)             Requested size: 423.09673pt x 135.88696pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[4
-
-]
-<pic/biosensor_areas_of_application.jpg, id=149, 150.8034pt x 152.9715pt>
-File: pic/biosensor_areas_of_application.jpg Graphic file (type jpg)
-<use pic/biosensor_areas_of_application.jpg>
-Package pdftex.def Info: pic/biosensor_areas_of_application.jpg  used on input 
-line 209.
-(pdftex.def)             Requested size: 282.06926pt x 286.1649pt.
-<pic/spr_biosensor_principle.png, id=153, 1659.19875pt x 729.72626pt>
+[6 <./pic/miniature_chromatograph_scheme.png>]
+<pic/areas_of_application_of_biosensors.png, id=156, 704.6325pt x 714.67pt>
+File: pic/areas_of_application_of_biosensors.png Graphic file (type png)
+<use pic/areas_of_application_of_biosensors.png>
+Package pdftex.def Info: pic/areas_of_application_of_biosensors.png  used on in
+put line 297.
+(pdftex.def)             Requested size: 282.06926pt x 286.08102pt.
+<pic/spr_biosensor_principle.png, id=161, 1793.70125pt x 944.52875pt>
 File: pic/spr_biosensor_principle.png Graphic file (type png)
 <use pic/spr_biosensor_principle.png>
-Package pdftex.def Info: pic/spr_biosensor_principle.png  used on input line 24
-0.
-(pdftex.def)             Requested size: 376.08997pt x 165.40614pt.
- [5 <./pic/diagnostic_device_example.jpg>] [6 <./pic/biosensor_areas_of_applica
-tion.jpg> <./pic/spr_biosensor_principle.png>] [7] [8] [9] [10]
-<pic/visc_diff_layers.png, id=241, 1858.945pt x 751.80875pt>
+Package pdftex.def Info: pic/spr_biosensor_principle.png  used on input line 33
+1.
+(pdftex.def)             Requested size: 376.08997pt x 198.03981pt.
+<pic/qcm_rus.png, id=164, 719.68875pt x 474.77374pt>
+File: pic/qcm_rus.png Graphic file (type png)
+<use pic/qcm_rus.png>
+Package pdftex.def Info: pic/qcm_rus.png  used on input line 357.
+(pdftex.def)             Requested size: 329.07603pt x 217.09456pt.
+ [7 <./pic/example_of_diagnostic_device.png>] [8 <./pic/areas_of_application_of
+_biosensors.png> <./pic/spr_biosensor_principle.png>] [9 <./pic/qcm_rus.png>] [
+10] [11] [12]
+<pic/visc_diff_layers.png, id=251, 1858.945pt x 751.80875pt>
 File: pic/visc_diff_layers.png Graphic file (type png)
 <use pic/visc_diff_layers.png>
-Package pdftex.def Info: pic/visc_diff_layers.png  used on input line 634.
+Package pdftex.def Info: pic/visc_diff_layers.png  used on input line 693.
 (pdftex.def)             Requested size: 329.07603pt x 133.08275pt.
- [11]
-<pic/basis_functions_FEM_illustration1d.png, id=260, 350.05782pt x 289.83281pt>
+ [13 <./pic/visc_diff_layers.png>]
+<pic/basis_functions_FEM_illustration1d.png, id=266, 350.05782pt x 289.83281pt>
 
 File: pic/basis_functions_FEM_illustration1d.png Graphic file (type png)
 <use pic/basis_functions_FEM_illustration1d.png>
 Package pdftex.def Info: pic/basis_functions_FEM_illustration1d.png  used on in
-put line 674.
+put line 735.
 (pdftex.def)             Requested size: 235.05533pt x 194.62036pt.
-
-[12 <./pic/visc_diff_layers.png> <./pic/basis_functions_FEM_illustration1d.png>
-] [13]
-<pic/FULLTEXT_inverse_example.png, id=295, 1879.02pt x 908.39375pt>
+ [14 <./pic/basis_functions_FEM_illustration1d.png>] [15]
+<pic/FULLTEXT_inverse_example.png, id=301, 1879.02pt x 908.39375pt>
 File: pic/FULLTEXT_inverse_example.png Graphic file (type png)
 <use pic/FULLTEXT_inverse_example.png>
-Package pdftex.def Info: pic/FULLTEXT_inverse_example.png  used on input line 8
-39.
+Package pdftex.def Info: pic/FULLTEXT_inverse_example.png  used on input line 9
+00.
 (pdftex.def)             Requested size: 376.08997pt x 181.81413pt.
- [14]
-<pic/flat_illustration.png, id=310, 210.0648pt x 158.5122pt>
+
+[16 <./pic/FULLTEXT_inverse_example.png>]
+<pic/flat_illustration.png, id=314, 210.0648pt x 158.5122pt>
 File: pic/flat_illustration.png Graphic file (type png)
 <use pic/flat_illustration.png>
-Package pdftex.def Info: pic/flat_illustration.png  used on input line 870.
+Package pdftex.def Info: pic/flat_illustration.png  used on input line 937.
 (pdftex.def)             Requested size: 188.0414pt x 141.89293pt.
- [15 <./pic/FULLTEXT_inverse_example.png> <./pic/flat_illustration.png>]
-<pic/flat_wide_onecomp_onedim_ref_probe.png, id=326, 1027.84pt x 1027.84pt>
+ [17 <./pic/flat_illustration.png>]
+<pic/flat_wide_onecomp_onedim_ref_probe.png, id=335, 1027.84pt x 1027.84pt>
 File: pic/flat_wide_onecomp_onedim_ref_probe.png Graphic file (type png)
 <use pic/flat_wide_onecomp_onedim_ref_probe.png>
 Package pdftex.def Info: pic/flat_wide_onecomp_onedim_ref_probe.png  used on in
-put line 935.
+put line 1002.
 (pdftex.def)             Requested size: 235.05533pt x 235.04944pt.
-<pic/flat_wide_onecomp_onedim_dil10_probe.png, id=327, 1027.84pt x 1027.84pt>
+<pic/flat_wide_onecomp_onedim_dil10_probe.png, id=336, 1027.84pt x 1027.84pt>
 File: pic/flat_wide_onecomp_onedim_dil10_probe.png Graphic file (type png)
 <use pic/flat_wide_onecomp_onedim_dil10_probe.png>
 Package pdftex.def Info: pic/flat_wide_onecomp_onedim_dil10_probe.png  used on 
-input line 936.
+input line 1003.
 (pdftex.def)             Requested size: 235.05533pt x 235.04944pt.
-<pic/flat_wide_onecomp_onedim_ref_distrib.png, id=328, 1027.84pt x 1027.84pt>
+<pic/flat_wide_onecomp_onedim_ref_distrib.png, id=337, 1027.84pt x 1027.84pt>
 File: pic/flat_wide_onecomp_onedim_ref_distrib.png Graphic file (type png)
 <use pic/flat_wide_onecomp_onedim_ref_distrib.png>
 Package pdftex.def Info: pic/flat_wide_onecomp_onedim_ref_distrib.png  used on 
-input line 938.
+input line 1005.
 (pdftex.def)             Requested size: 235.05533pt x 235.04944pt.
-<pic/flat_wide_onecomp_onedim_dil10_distrib.png, id=329, 1027.84pt x 1027.84pt>
+<pic/flat_wide_onecomp_onedim_dil10_distrib.png, id=338, 1027.84pt x 1027.84pt>
 
 File: pic/flat_wide_onecomp_onedim_dil10_distrib.png Graphic file (type png)
 <use pic/flat_wide_onecomp_onedim_dil10_distrib.png>
 Package pdftex.def Info: pic/flat_wide_onecomp_onedim_dil10_distrib.png  used o
-n input line 939.
+n input line 1006.
 (pdftex.def)             Requested size: 235.05533pt x 235.04944pt.
-<pic/flat_wide_two_bulk_paramsweep_3.png, id=331, 1485.55pt x 1128.215pt>
+<pic/flat_wide_two_bulk_paramsweep_3.png, id=340, 1485.55pt x 1128.215pt>
 File: pic/flat_wide_two_bulk_paramsweep_3.png Graphic file (type png)
 <use pic/flat_wide_two_bulk_paramsweep_3.png>
 Package pdftex.def Info: pic/flat_wide_two_bulk_paramsweep_3.png  used on input
- line 968.
+ line 1035.
 (pdftex.def)             Requested size: 282.06926pt x 214.20815pt.
-<pic/flat_wide_two_bulk_paramsweep_4.png, id=332, 1485.55pt x 1128.215pt>
+<pic/flat_wide_two_bulk_paramsweep_4.png, id=341, 1485.55pt x 1128.215pt>
 File: pic/flat_wide_two_bulk_paramsweep_4.png Graphic file (type png)
 <use pic/flat_wide_two_bulk_paramsweep_4.png>
 Package pdftex.def Info: pic/flat_wide_two_bulk_paramsweep_4.png  used on input
- line 969.
+ line 1036.
 (pdftex.def)             Requested size: 282.06926pt x 214.20815pt.
- [16] [17 <./pic/flat_wide_onecomp_onedim_ref_probe.png (PNG copy)> <./pic/flat
-_wide_onecomp_onedim_dil10_probe.png (PNG copy)> <./pic/flat_wide_onecomp_onedi
-m_ref_distrib.png (PNG copy)> <./pic/flat_wide_onecomp_onedim_dil10_distrib.png
- (PNG copy)>] [18 <./pic/flat_wide_two_bulk_paramsweep_3.png (PNG copy)> <./pic
-/flat_wide_two_bulk_paramsweep_4.png (PNG copy)>]
-<pic/flat_wide_onecomp_plate_concentration_140s.png, id=358, 829.59938pt x 477.
+<pic/flat_wide_onecomp_plate_concentration_140s.png, id=347, 829.59938pt x 477.
 28313pt>
 File: pic/flat_wide_onecomp_plate_concentration_140s.png Graphic file (type png
 )
 <use pic/flat_wide_onecomp_plate_concentration_140s.png>
 Package pdftex.def Info: pic/flat_wide_onecomp_plate_concentration_140s.png  us
-ed on input line 1014.
+ed on input line 1081.
 (pdftex.def)             Requested size: 235.05533pt x 135.226pt.
-<pic/flat_wide_onecomp_plate_concentration_350s.png, id=359, 829.59938pt x 477.
+<pic/flat_wide_onecomp_plate_concentration_350s.png, id=348, 829.59938pt x 477.
 28313pt>
 File: pic/flat_wide_onecomp_plate_concentration_350s.png Graphic file (type png
 )
 <use pic/flat_wide_onecomp_plate_concentration_350s.png>
 Package pdftex.def Info: pic/flat_wide_onecomp_plate_concentration_350s.png  us
-ed on input line 1015.
+ed on input line 1082.
 (pdftex.def)             Requested size: 235.05533pt x 135.226pt.
-<pic/flat_wide_onecomp_plate_velocity.png, id=360, 829.59938pt x 477.28313pt>
+<pic/flat_wide_onecomp_plate_velocity.png, id=349, 829.59938pt x 477.28313pt>
 File: pic/flat_wide_onecomp_plate_velocity.png Graphic file (type png)
 <use pic/flat_wide_onecomp_plate_velocity.png>
 Package pdftex.def Info: pic/flat_wide_onecomp_plate_velocity.png  used on inpu
-t line 1017.
+t line 1084.
 (pdftex.def)             Requested size: 282.06926pt x 162.27411pt.
-<pic/flat_wide_onecomp_streptalphas.png, id=365, 1485.55pt x 1128.215pt>
+
+[18] [19 <./pic/flat_wide_onecomp_onedim_ref_probe.png (PNG copy)> <./pic/flat_
+wide_onecomp_onedim_dil10_probe.png (PNG copy)> <./pic/flat_wide_onecomp_onedim
+_ref_distrib.png (PNG copy)> <./pic/flat_wide_onecomp_onedim_dil10_distrib.png 
+(PNG copy)>] [20 <./pic/flat_wide_two_bulk_paramsweep_3.png (PNG copy)> <./pic/
+flat_wide_two_bulk_paramsweep_4.png (PNG copy)>] [21 <./pic/flat_wide_onecomp_p
+late_concentration_140s.png (PNG copy)> <./pic/flat_wide_onecomp_plate_concentr
+ation_350s.png (PNG copy)> <./pic/flat_wide_onecomp_plate_velocity.png (PNG cop
+y)>]
+<pic/flat_wide_onecomp_streptalphas.png, id=378, 1485.55pt x 1128.215pt>
 File: pic/flat_wide_onecomp_streptalphas.png Graphic file (type png)
 <use pic/flat_wide_onecomp_streptalphas.png>
 Package pdftex.def Info: pic/flat_wide_onecomp_streptalphas.png  used on input 
-line 1041.
+line 1108.
 (pdftex.def)             Requested size: 329.07603pt x 249.91237pt.
- [19 <./pic/flat_wide_onecomp_plate_concentration_140s.png (PNG copy)> <./pic/f
-lat_wide_onecomp_plate_concentration_350s.png (PNG copy)> <./pic/flat_wide_onec
-omp_plate_velocity.png (PNG copy)>] [20 <./pic/flat_wide_onecomp_streptalphas.p
-ng (PNG copy)>]
-<pic/wide_two_surf_ramp.png, id=384, 829.59938pt x 477.28313pt>
+ [22 <./pic/flat_wide_onecomp_streptalphas.png (PNG copy)>]
+<pic/wide_two_surf_ramp.png, id=392, 829.59938pt x 477.28313pt>
 File: pic/wide_two_surf_ramp.png Graphic file (type png)
 <use pic/wide_two_surf_ramp.png>
-Package pdftex.def Info: pic/wide_two_surf_ramp.png  used on input line 1104.
+Package pdftex.def Info: pic/wide_two_surf_ramp.png  used on input line 1171.
 (pdftex.def)             Requested size: 329.07603pt x 189.32222pt.
-<pic/flat_wide_twosurf_example.png, id=386, 1485.55pt x 1128.215pt>
+<pic/flat_wide_twosurf_example.png, id=394, 1485.55pt x 1128.215pt>
 File: pic/flat_wide_twosurf_example.png Graphic file (type png)
 <use pic/flat_wide_twosurf_example.png>
 Package pdftex.def Info: pic/flat_wide_twosurf_example.png  used on input line 
-1124.
+1191.
 (pdftex.def)             Requested size: 329.07603pt x 249.91237pt.
-<pic/flat_wide_twosurf_fracs_a_sum.png, id=388, 1485.55pt x 1128.215pt>
+<pic/flat_wide_twosurf_fracs_a_sum.png, id=396, 1485.55pt x 1128.215pt>
 File: pic/flat_wide_twosurf_fracs_a_sum.png Graphic file (type png)
 <use pic/flat_wide_twosurf_fracs_a_sum.png>
 Package pdftex.def Info: pic/flat_wide_twosurf_fracs_a_sum.png  used on input l
-ine 1152.
+ine 1219.
 (pdftex.def)             Requested size: 329.07603pt x 249.91237pt.
- [21 <./pic/wide_two_surf_ramp.png (PNG copy)>] [22 <./pic/flat_wide_twosurf_ex
+ [23 <./pic/wide_two_surf_ramp.png (PNG copy)>] [24 <./pic/flat_wide_twosurf_ex
 ample.png (PNG copy)> <./pic/flat_wide_twosurf_fracs_a_sum.png (PNG copy)>]
-<pic/flat_wide_twosurf_veldistrib.png, id=406, 829.59938pt x 462.97969pt>
+<pic/flat_wide_twosurf_veldistrib.png, id=412, 829.59938pt x 462.97969pt>
 File: pic/flat_wide_twosurf_veldistrib.png Graphic file (type png)
 <use pic/flat_wide_twosurf_veldistrib.png>
 Package pdftex.def Info: pic/flat_wide_twosurf_veldistrib.png  used on input li
-ne 1190.
+ne 1257.
 (pdftex.def)             Requested size: 282.06926pt x 157.411pt.
-<pic/flat_wide_twosurf_11s.png, id=407, 829.59938pt x 462.97969pt>
+<pic/flat_wide_twosurf_11s.png, id=413, 829.59938pt x 462.97969pt>
 File: pic/flat_wide_twosurf_11s.png Graphic file (type png)
 <use pic/flat_wide_twosurf_11s.png>
-Package pdftex.def Info: pic/flat_wide_twosurf_11s.png  used on input line 1203
+Package pdftex.def Info: pic/flat_wide_twosurf_11s.png  used on input line 1270
 .
 (pdftex.def)             Requested size: 235.05533pt x 131.17348pt.
-<pic/flat_wide_twosurf_800s.png, id=408, 829.59938pt x 462.97969pt>
+<pic/flat_wide_twosurf_800s.png, id=414, 829.59938pt x 462.97969pt>
 File: pic/flat_wide_twosurf_800s.png Graphic file (type png)
 <use pic/flat_wide_twosurf_800s.png>
-Package pdftex.def Info: pic/flat_wide_twosurf_800s.png  used on input line 120
-4.
+Package pdftex.def Info: pic/flat_wide_twosurf_800s.png  used on input line 127
+1.
 (pdftex.def)             Requested size: 235.05533pt x 131.17348pt.
-<pic/flat_wide_twosurf_999s.png, id=409, 829.59938pt x 462.97969pt>
+<pic/flat_wide_twosurf_999s.png, id=415, 829.59938pt x 462.97969pt>
 File: pic/flat_wide_twosurf_999s.png Graphic file (type png)
 <use pic/flat_wide_twosurf_999s.png>
-Package pdftex.def Info: pic/flat_wide_twosurf_999s.png  used on input line 120
-6.
+Package pdftex.def Info: pic/flat_wide_twosurf_999s.png  used on input line 127
+3.
 (pdftex.def)             Requested size: 235.05533pt x 131.17348pt.
-<pic/flat_wide_twosurf_1200s.png, id=410, 829.59938pt x 462.97969pt>
+<pic/flat_wide_twosurf_1200s.png, id=416, 829.59938pt x 462.97969pt>
 File: pic/flat_wide_twosurf_1200s.png Graphic file (type png)
 <use pic/flat_wide_twosurf_1200s.png>
 Package pdftex.def Info: pic/flat_wide_twosurf_1200s.png  used on input line 12
-07.
+74.
 (pdftex.def)             Requested size: 235.05533pt x 131.17348pt.
-<pic/flat_wide_twosurf_plane_abs.png, id=412, 1027.84pt x 1027.84pt>
+<pic/flat_wide_twosurf_plane_abs.png, id=418, 1027.84pt x 1027.84pt>
 File: pic/flat_wide_twosurf_plane_abs.png Graphic file (type png)
 <use pic/flat_wide_twosurf_plane_abs.png>
 Package pdftex.def Info: pic/flat_wide_twosurf_plane_abs.png  used on input lin
-e 1226.
+e 1293.
 (pdftex.def)             Requested size: 235.05533pt x 235.04944pt.
-<pic/flat_wide_twosurf_onedim_abs.png, id=413, 1027.84pt x 1027.84pt>
+<pic/flat_wide_twosurf_onedim_abs.png, id=419, 1027.84pt x 1027.84pt>
 File: pic/flat_wide_twosurf_onedim_abs.png Graphic file (type png)
 <use pic/flat_wide_twosurf_onedim_abs.png>
 Package pdftex.def Info: pic/flat_wide_twosurf_onedim_abs.png  used on input li
-ne 1227.
+ne 1294.
 (pdftex.def)             Requested size: 235.05533pt x 235.04944pt.
-<pic/flat_wide_twosurf_sum_betas.png, id=415, 2188.175pt x 1128.215pt>
+<pic/flat_wide_twosurf_sum_betas.png, id=421, 2188.175pt x 1128.215pt>
 File: pic/flat_wide_twosurf_sum_betas.png Graphic file (type png)
 <use pic/flat_wide_twosurf_sum_betas.png>
 Package pdftex.def Info: pic/flat_wide_twosurf_sum_betas.png  used on input lin
-e 1253.
+e 1320.
 (pdftex.def)             Requested size: 376.08997pt x 193.91147pt.
-<pic/flat_wide_twosurf_a_betas.png, id=416, 2188.175pt x 1128.215pt>
+<pic/flat_wide_twosurf_a_betas.png, id=422, 2188.175pt x 1128.215pt>
 File: pic/flat_wide_twosurf_a_betas.png Graphic file (type png)
 <use pic/flat_wide_twosurf_a_betas.png>
 Package pdftex.def Info: pic/flat_wide_twosurf_a_betas.png  used on input line 
-1254.
+1321.
 (pdftex.def)             Requested size: 376.08997pt x 193.91147pt.
-<pic/flat_wide_twosurf_b_betas.png, id=417, 2188.175pt x 1128.215pt>
+<pic/flat_wide_twosurf_b_betas.png, id=423, 2188.175pt x 1128.215pt>
 File: pic/flat_wide_twosurf_b_betas.png Graphic file (type png)
 <use pic/flat_wide_twosurf_b_betas.png>
 Package pdftex.def Info: pic/flat_wide_twosurf_b_betas.png  used on input line 
-1255.
+1322.
 (pdftex.def)             Requested size: 376.08997pt x 193.91147pt.
- [23 <./pic/flat_wide_twosurf_veldistrib.png (PNG copy)>] [24 <./pic/flat_wide_
+ [25 <./pic/flat_wide_twosurf_veldistrib.png (PNG copy)>] [26 <./pic/flat_wide_
 twosurf_11s.png (PNG copy)> <./pic/flat_wide_twosurf_800s.png (PNG copy)> <./pi
 c/flat_wide_twosurf_999s.png (PNG copy)> <./pic/flat_wide_twosurf_1200s.png (PN
 G copy)> <./pic/flat_wide_twosurf_plane_abs.png (PNG copy)> <./pic/flat_wide_tw
-osurf_onedim_abs.png (PNG copy)>] [25 <./pic/flat_wide_twosurf_sum_betas.png (P
+osurf_onedim_abs.png (PNG copy)>] [27 <./pic/flat_wide_twosurf_sum_betas.png (P
 NG copy)> <./pic/flat_wide_twosurf_a_betas.png (PNG copy)> <./pic/flat_wide_two
 surf_b_betas.png (PNG copy)>]
-<pic/flat_narrow_plate_veldistrib.png, id=442, 829.59938pt x 477.28313pt>
+<pic/flat_narrow_plate_veldistrib.png, id=448, 829.59938pt x 477.28313pt>
 File: pic/flat_narrow_plate_veldistrib.png Graphic file (type png)
 <use pic/flat_narrow_plate_veldistrib.png>
 Package pdftex.def Info: pic/flat_narrow_plate_veldistrib.png  used on input li
-ne 1296.
+ne 1363.
 (pdftex.def)             Requested size: 282.06926pt x 162.27411pt.
-<pic/flat_narrow_plate_20s.png, id=443, 829.59938pt x 477.28313pt>
+<pic/flat_narrow_plate_20s.png, id=449, 829.59938pt x 477.28313pt>
 File: pic/flat_narrow_plate_20s.png Graphic file (type png)
 <use pic/flat_narrow_plate_20s.png>
-Package pdftex.def Info: pic/flat_narrow_plate_20s.png  used on input line 1308
+Package pdftex.def Info: pic/flat_narrow_plate_20s.png  used on input line 1375
 .
 (pdftex.def)             Requested size: 282.06926pt x 162.27411pt.
-<pic/flat_narrow_plate_50s.png, id=444, 829.59938pt x 477.28313pt>
+<pic/flat_narrow_plate_50s.png, id=450, 829.59938pt x 477.28313pt>
 File: pic/flat_narrow_plate_50s.png Graphic file (type png)
 <use pic/flat_narrow_plate_50s.png>
-Package pdftex.def Info: pic/flat_narrow_plate_50s.png  used on input line 1310
+Package pdftex.def Info: pic/flat_narrow_plate_50s.png  used on input line 1377
 .
 (pdftex.def)             Requested size: 282.06926pt x 162.27411pt.
-<pic/flat_narrow_plate_100s.png, id=445, 829.59938pt x 477.28313pt>
+<pic/flat_narrow_plate_100s.png, id=451, 829.59938pt x 477.28313pt>
 File: pic/flat_narrow_plate_100s.png Graphic file (type png)
 <use pic/flat_narrow_plate_100s.png>
-Package pdftex.def Info: pic/flat_narrow_plate_100s.png  used on input line 131
-2.
+Package pdftex.def Info: pic/flat_narrow_plate_100s.png  used on input line 137
+9.
 (pdftex.def)             Requested size: 282.06926pt x 162.27411pt.
-<pic/beta_found_6_1.png, id=451, 1027.84pt x 1027.84pt>
+<pic/beta_found_6_1.png, id=457, 1027.84pt x 1027.84pt>
 File: pic/beta_found_6_1.png Graphic file (type png)
 <use pic/beta_found_6_1.png>
-Package pdftex.def Info: pic/beta_found_6_1.png  used on input line 1337.
+Package pdftex.def Info: pic/beta_found_6_1.png  used on input line 1404.
 (pdftex.def)             Requested size: 155.13737pt x 155.12604pt.
-<pic/beta_found_6_2.png, id=452, 1027.84pt x 1027.84pt>
+<pic/beta_found_6_2.png, id=458, 1027.84pt x 1027.84pt>
 File: pic/beta_found_6_2.png Graphic file (type png)
 <use pic/beta_found_6_2.png>
-Package pdftex.def Info: pic/beta_found_6_2.png  used on input line 1338.
+Package pdftex.def Info: pic/beta_found_6_2.png  used on input line 1405.
 (pdftex.def)             Requested size: 155.13737pt x 155.12604pt.
-<pic/beta_found_5_1.png, id=453, 1027.84pt x 1027.84pt>
+<pic/beta_found_5_1.png, id=459, 1027.84pt x 1027.84pt>
 File: pic/beta_found_5_1.png Graphic file (type png)
 <use pic/beta_found_5_1.png>
-Package pdftex.def Info: pic/beta_found_5_1.png  used on input line 1340.
+Package pdftex.def Info: pic/beta_found_5_1.png  used on input line 1407.
 (pdftex.def)             Requested size: 155.13737pt x 155.12604pt.
-<pic/beta_found_5_2.png, id=454, 1027.84pt x 1027.84pt>
+<pic/beta_found_5_2.png, id=460, 1027.84pt x 1027.84pt>
 File: pic/beta_found_5_2.png Graphic file (type png)
 <use pic/beta_found_5_2.png>
-Package pdftex.def Info: pic/beta_found_5_2.png  used on input line 1341.
+Package pdftex.def Info: pic/beta_found_5_2.png  used on input line 1408.
 (pdftex.def)             Requested size: 155.13737pt x 155.12604pt.
-<pic/beta_found_5_3.png, id=455, 1027.84pt x 1027.84pt>
+<pic/beta_found_5_3.png, id=461, 1027.84pt x 1027.84pt>
 File: pic/beta_found_5_3.png Graphic file (type png)
 <use pic/beta_found_5_3.png>
-Package pdftex.def Info: pic/beta_found_5_3.png  used on input line 1342.
+Package pdftex.def Info: pic/beta_found_5_3.png  used on input line 1409.
 (pdftex.def)             Requested size: 155.13737pt x 155.12604pt.
-<pic/beta_found_4_2.png, id=456, 1027.84pt x 1027.84pt>
+<pic/beta_found_4_2.png, id=462, 1027.84pt x 1027.84pt>
 File: pic/beta_found_4_2.png Graphic file (type png)
 <use pic/beta_found_4_2.png>
-Package pdftex.def Info: pic/beta_found_4_2.png  used on input line 1344.
+Package pdftex.def Info: pic/beta_found_4_2.png  used on input line 1411.
 (pdftex.def)             Requested size: 155.13737pt x 155.12604pt.
-<pic/beta_found_4_3.png, id=457, 1027.84pt x 1027.84pt>
+<pic/beta_found_4_3.png, id=463, 1027.84pt x 1027.84pt>
 File: pic/beta_found_4_3.png Graphic file (type png)
 <use pic/beta_found_4_3.png>
-Package pdftex.def Info: pic/beta_found_4_3.png  used on input line 1345.
+Package pdftex.def Info: pic/beta_found_4_3.png  used on input line 1412.
 (pdftex.def)             Requested size: 155.13737pt x 155.12604pt.
-<pic/beta_found_4_4.png, id=458, 1027.84pt x 1027.84pt>
+<pic/beta_found_4_4.png, id=464, 1027.84pt x 1027.84pt>
 File: pic/beta_found_4_4.png Graphic file (type png)
 <use pic/beta_found_4_4.png>
-Package pdftex.def Info: pic/beta_found_4_4.png  used on input line 1346.
+Package pdftex.def Info: pic/beta_found_4_4.png  used on input line 1413.
 (pdftex.def)             Requested size: 155.13737pt x 155.12604pt.
-<pic/beta_found_3_3.png, id=459, 1027.84pt x 1027.84pt>
+<pic/beta_found_3_3.png, id=465, 1027.84pt x 1027.84pt>
 File: pic/beta_found_3_3.png Graphic file (type png)
 <use pic/beta_found_3_3.png>
-Package pdftex.def Info: pic/beta_found_3_3.png  used on input line 1348.
+Package pdftex.def Info: pic/beta_found_3_3.png  used on input line 1415.
 (pdftex.def)             Requested size: 155.13737pt x 155.12604pt.
-<pic/beta_found_3_4.png, id=460, 1027.84pt x 1027.84pt>
+<pic/beta_found_3_4.png, id=466, 1027.84pt x 1027.84pt>
 File: pic/beta_found_3_4.png Graphic file (type png)
 <use pic/beta_found_3_4.png>
-Package pdftex.def Info: pic/beta_found_3_4.png  used on input line 1349.
+Package pdftex.def Info: pic/beta_found_3_4.png  used on input line 1416.
 (pdftex.def)             Requested size: 155.13737pt x 155.12604pt.
-<pic/flat_narrow_beta_height.png, id=467, 1686.3pt x 1204.5pt>
+ [28 <./pic/flat_narrow_plate_veldistrib.png (PNG copy)>] [29 <./pic/flat_narro
+w_plate_20s.png (PNG copy)> <./pic/flat_narrow_plate_50s.png (PNG copy)> <./pic
+/flat_narrow_plate_100s.png (PNG copy)>] [30 <./pic/beta_found_6_1.png (PNG cop
+y)> <./pic/beta_found_6_2.png (PNG copy)> <./pic/beta_found_5_1.png (PNG copy)>
+ <./pic/beta_found_5_2.png (PNG copy)> <./pic/beta_found_5_3.png (PNG copy)> <.
+/pic/beta_found_4_2.png (PNG copy)> <./pic/beta_found_4_3.png (PNG copy)> <./pi
+c/beta_found_4_4.png (PNG copy)> <./pic/beta_found_3_3.png (PNG copy)> <./pic/b
+eta_found_3_4.png (PNG copy)>]
+<pic/flat_narrow_beta_height.png, id=488, 1686.3pt x 1204.5pt>
 File: pic/flat_narrow_beta_height.png Graphic file (type png)
 <use pic/flat_narrow_beta_height.png>
-Package pdftex.def Info: pic/flat_narrow_beta_height.png  used on input line 13
-90.
+Package pdftex.def Info: pic/flat_narrow_beta_height.png  used on input line 14
+64.
 (pdftex.def)             Requested size: 376.08997pt x 268.6299pt.
- [26 <./pic/flat_narrow_plate_veldistrib.png (PNG copy)>]
-[27 <./pic/flat_narrow_plate_20s.png (PNG copy)> <./pic/flat_narrow_plate_50s.p
-ng (PNG copy)> <./pic/flat_narrow_plate_100s.png (PNG copy)>] [28 <./pic/beta_f
-ound_6_1.png (PNG copy)> <./pic/beta_found_6_2.png (PNG copy)> <./pic/beta_foun
-d_5_1.png (PNG copy)> <./pic/beta_found_5_2.png (PNG copy)> <./pic/beta_found_5
-_3.png (PNG copy)> <./pic/beta_found_4_2.png (PNG copy)> <./pic/beta_found_4_3.
-png (PNG copy)> <./pic/beta_found_4_4.png (PNG copy)> <./pic/beta_found_3_3.png
- (PNG copy)> <./pic/beta_found_3_4.png (PNG copy)>]
-<pic/sphere_stationary_dil100_390s_3d.png, id=487, 550.30594pt x 477.28313pt>
+ [31 <./pic/flat_narrow_beta_height.png (PNG copy)>]
+<pic/sphere_stationary_dil100_390s_3d.png, id=501, 550.30594pt x 477.28313pt>
 File: pic/sphere_stationary_dil100_390s_3d.png Graphic file (type png)
 <use pic/sphere_stationary_dil100_390s_3d.png>
 Package pdftex.def Info: pic/sphere_stationary_dil100_390s_3d.png  used on inpu
-t line 1449.
+t line 1523.
 (pdftex.def)             Requested size: 235.05533pt x 203.86586pt.
-<pic/sphere_stationary_dil100_390s_3d_close.png, id=488, 550.30594pt x 477.2831
+<pic/sphere_stationary_dil100_390s_3d_close.png, id=502, 550.30594pt x 477.2831
 3pt>
 File: pic/sphere_stationary_dil100_390s_3d_close.png Graphic file (type png)
 <use pic/sphere_stationary_dil100_390s_3d_close.png>
 Package pdftex.def Info: pic/sphere_stationary_dil100_390s_3d_close.png  used o
-n input line 1450.
+n input line 1524.
 (pdftex.def)             Requested size: 235.05533pt x 203.86586pt.
-<pic/sphere_stationary_dil100_390s_2d.png, id=489, 550.30594pt x 477.28313pt>
+<pic/sphere_stationary_dil100_390s_2d.png, id=503, 550.30594pt x 477.28313pt>
 File: pic/sphere_stationary_dil100_390s_2d.png Graphic file (type png)
 <use pic/sphere_stationary_dil100_390s_2d.png>
 Package pdftex.def Info: pic/sphere_stationary_dil100_390s_2d.png  used on inpu
-t line 1452.
+t line 1526.
 (pdftex.def)             Requested size: 282.06926pt x 244.64923pt.
- [29 <./pic/flat_narrow_beta_height.png (PNG copy)>] [30 <./pic/sphere_stationa
-ry_dil100_390s_3d.png (PNG copy)> <./pic/sphere_stationary_dil100_390s_3d_close
-.png (PNG copy)> <./pic/sphere_stationary_dil100_390s_2d.png (PNG copy)>]
-<pic/sphere_stationary_dil10_probe.png, id=505, 1027.84pt x 1027.84pt>
+<pic/sphere_stationary_dil10_probe.png, id=507, 1027.84pt x 1027.84pt>
 File: pic/sphere_stationary_dil10_probe.png Graphic file (type png)
 <use pic/sphere_stationary_dil10_probe.png>
 Package pdftex.def Info: pic/sphere_stationary_dil10_probe.png  used on input l
-ine 1490.
+ine 1564.
 (pdftex.def)             Requested size: 235.05533pt x 235.04944pt.
-<pic/sphere_stationary_dil100_probe.png, id=506, 1027.84pt x 1027.84pt>
+<pic/sphere_stationary_dil100_probe.png, id=508, 1027.84pt x 1027.84pt>
 File: pic/sphere_stationary_dil100_probe.png Graphic file (type png)
 <use pic/sphere_stationary_dil100_probe.png>
 Package pdftex.def Info: pic/sphere_stationary_dil100_probe.png  used on input 
-line 1491.
+line 1565.
 (pdftex.def)             Requested size: 235.05533pt x 235.04944pt.
-<pic/sphere_stationary_big_small.png, id=508, 1429.34pt x 1027.84pt>
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<pic/sphere_stationary_big_small.png, id=510, 1429.34pt x 1027.84pt>
 File: pic/sphere_stationary_big_small.png Graphic file (type png)
 <use pic/sphere_stationary_big_small.png>
 Package pdftex.def Info: pic/sphere_stationary_big_small.png  used on input lin
-e 1514.
+e 1588.
 (pdftex.def)             Requested size: 329.07603pt x 236.63348pt.
- [31 <./pic/sphere_stationary_dil10_probe.png (PNG copy)> <./pic/sphere_station
-ary_dil100_probe.png (PNG copy)>]
-<pic/sphere_flow_dil100_20s_3d_concentration.png, id=518, 550.30594pt x 477.283
+[32] [33 <./pic/sphere_stationary_dil100_390s_3d.png (PNG copy)> <./pic/sphere_
+stationary_dil100_390s_3d_close.png (PNG copy)> <./pic/sphere_stationary_dil100
+_390s_2d.png (PNG copy)>] [34 <./pic/sphere_stationary_dil10_probe.png (PNG cop
+y)> <./pic/sphere_stationary_dil100_probe.png (PNG copy)> <./pic/sphere_station
+ary_big_small.png (PNG copy)>]
+<pic/sphere_flow_dil100_20s_3d_concentration.png, id=528, 550.30594pt x 477.283
 13pt>
 File: pic/sphere_flow_dil100_20s_3d_concentration.png Graphic file (type png)
 <use pic/sphere_flow_dil100_20s_3d_concentration.png>
 Package pdftex.def Info: pic/sphere_flow_dil100_20s_3d_concentration.png  used 
-on input line 1568.
+on input line 1642.
 (pdftex.def)             Requested size: 235.05533pt x 203.86586pt.
-<pic/sphere_flow_dil100_20s_2d_concentration.png, id=519, 550.30594pt x 477.283
+<pic/sphere_flow_dil100_20s_2d_concentration.png, id=529, 550.30594pt x 477.283
 13pt>
 File: pic/sphere_flow_dil100_20s_2d_concentration.png Graphic file (type png)
 <use pic/sphere_flow_dil100_20s_2d_concentration.png>
 Package pdftex.def Info: pic/sphere_flow_dil100_20s_2d_concentration.png  used 
-on input line 1569.
+on input line 1643.
 (pdftex.def)             Requested size: 235.05533pt x 203.86586pt.
-<pic/sphere_flow_dil100_2d_velocity.png, id=520, 550.30594pt x 477.28313pt>
+<pic/sphere_flow_dil100_2d_velocity.png, id=530, 550.30594pt x 477.28313pt>
 File: pic/sphere_flow_dil100_2d_velocity.png Graphic file (type png)
 <use pic/sphere_flow_dil100_2d_velocity.png>
 Package pdftex.def Info: pic/sphere_flow_dil100_2d_velocity.png  used on input 
-line 1571.
+line 1645.
 (pdftex.def)             Requested size: 282.06926pt x 244.64923pt.
-<pic/sphere_flow_dil100_probe.png, id=522, 1027.84pt x 1027.84pt>
+<pic/sphere_flow_dil100_probe.png, id=532, 1027.84pt x 1027.84pt>
 File: pic/sphere_flow_dil100_probe.png Graphic file (type png)
 <use pic/sphere_flow_dil100_probe.png>
 Package pdftex.def Info: pic/sphere_flow_dil100_probe.png  used on input line 1
-599.
+673.
 (pdftex.def)             Requested size: 235.05533pt x 235.04944pt.
-<pic/sphere_flow_dil100_fast_probe.png, id=523, 1027.84pt x 1027.84pt>
+<pic/sphere_flow_dil100_fast_probe.png, id=533, 1027.84pt x 1027.84pt>
 File: pic/sphere_flow_dil100_fast_probe.png Graphic file (type png)
 <use pic/sphere_flow_dil100_fast_probe.png>
 Package pdftex.def Info: pic/sphere_flow_dil100_fast_probe.png  used on input l
-ine 1600.
+ine 1674.
 (pdftex.def)             Requested size: 235.05533pt x 235.04944pt.
+ [35
 
-[32 <./pic/sphere_stationary_big_small.png (PNG copy)>] [33 <./pic/sphere_flow_
-dil100_20s_3d_concentration.png (PNG copy)> <./pic/sphere_flow_dil100_20s_2d_co
-ncentration.png (PNG copy)> <./pic/sphere_flow_dil100_2d_velocity.png (PNG copy
-)>] (./main.bbl [34 <./pic/sphere_flow_dil100_probe.png (PNG copy)> <./pic/sphe
-re_flow_dil100_fast_probe.png (PNG copy)>]
-Underfull \hbox (badness 10000) in paragraph at lines 4--11
-\T2A/cmr/m/it/12 Essays Biochem\T2A/cmr/m/n/12 , 60(1):1--8, 06 2016.  [PubMed 
-Central:[]PMC4986445[]]
- []
-
-
-Underfull \hbox (badness 4686) in paragraph at lines 50--54
+] [36 <./pic/sphere_flow_dil100_20s_3d_concentration.png (PNG copy)> <./pic/sph
+ere_flow_dil100_20s_2d_concentration.png (PNG copy)> <./pic/sphere_flow_dil100_
+2d_velocity.png (PNG copy)>] [37 <./pic/sphere_flow_dil100_probe.png (PNG copy)
+> <./pic/sphere_flow_dil100_fast_probe.png (PNG copy)>] (./main.bbl [38]
+Underfull \hbox (badness 4686) in paragraph at lines 4--8
 []\T2A/cmr/m/n/12 Adelina-Gabriela Niculescu, Cristina Chircov, Alexandra C^^Ha
 t^^Halina B^^B^^Yrc^^Ha, and
  []
 
-[35
 
-]) [36] (./main.aux)
+Underfull \hbox (badness 10000) in paragraph at lines 32--39
+\T2A/cmr/m/it/12 Essays Biochem\T2A/cmr/m/n/12 , 60(1):1--8, 06 2016.  [PubMed 
+Central:[]PMC4986445[]]
+ []
+
+[39
+
+]) [40] (./main.aux)
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 54FB8827E4449AD34A3BFBFDC784600C;6010.
+(rerunfilecheck)             Checksum: AEC76C728E01ADDB8758E60B5D5FFA7A;5605.
  ) 
 Here is how much of TeX's memory you used:
- 18471 strings out of 478276
- 343830 string characters out of 5853013
- 623191 words of memory out of 5000000
- 36226 multiletter control sequences out of 15000+600000
+ 18572 strings out of 478276
+ 345812 string characters out of 5853013
+ 627059 words of memory out of 5000000
+ 36314 multiletter control sequences out of 15000+600000
  484141 words of font info for 61 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 71i,14n,79p,914b,885s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 71i,14n,79p,962b,885s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t2a.enc}{/usr/share/
 texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}</usr/share/texmf-dist/fon
 ts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texmf-dist/fonts/type1/publi
@@ -1154,10 +1193,10 @@ r/sfbx1440.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb>
 mf-dist/fonts/type1/public/cm-super/sfrm0800.pfb></usr/share/texmf-dist/fonts/t
 ype1/public/cm-super/sfrm1200.pfb></usr/share/texmf-dist/fonts/type1/public/cm-
 super/sfti1200.pfb>
-Output written on main.pdf (36 pages, 5018060 bytes).
+Output written on main.pdf (39 pages, 6560264 bytes).
 PDF statistics:
- 690 PDF objects out of 1000 (max. 8388607)
- 542 compressed objects within 6 object streams
- 174 named destinations out of 1000 (max. 500000)
- 433 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 711 PDF objects out of 1000 (max. 8388607)
+ 557 compressed objects within 6 object streams
+ 182 named destinations out of 1000 (max. 500000)
+ 427 words of extra memory for PDF output out of 10000 (max. 10000000)
 

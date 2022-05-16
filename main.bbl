@@ -1,18 +1,19 @@
 \begin{thebibliography}{10}
 
-\bibitem{bib:biosensor_intro}
-N.~Bhalla, P.~Jolly, N.~Formisano, and P.~Estrela.
-\newblock {{I}ntroduction to biosensors}.
-\newblock {\em Essays Biochem}, 60(1):1--8, 06 2016.
-\newblock [PubMed
-  Central:\href{https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4986445}{PMC4986445}]
-  [DOI:\href{https://dx.doi.org/10.1042/EBC20150001}{10.1042/EBC20150001}]
-  [PubMed:\href{https://www.ncbi.nlm.nih.gov/pubmed/20151038}{20151038}].
+\bibitem{bib:fabrication_and_application}
+Adelina-Gabriela Niculescu, Cristina Chircov, Alexandra~Cătălina Bîrcă, and
+  Alexandru~Mihai Grumezescu.
+\newblock Fabrication and applications of microfluidic devices: A review.
+\newblock {\em International Journal of Molecular Sciences}, 22(4), 2021.
 
-\bibitem{bib:FULLTEXT_inverse_example}
-Fredrik Bostr{\"o}m.
-\newblock Single-cycle kinetics for qcm biosensors for high throughput
-  nanoparticle characterization application, 2016.
+\bibitem{bib:capillary_protein_electrophoresis}
+Z.~Zhu, J.~J. Lu, and S.~Liu.
+\newblock {{P}rotein separation by capillary gel electrophoresis: a review}.
+\newblock {\em Anal Chim Acta}, 709:21--31, Jan 2012.
+\newblock [PubMed
+  Central:\href{https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3227876}{PMC3227876}]
+  [DOI:\href{https://dx.doi.org/10.1016/j.aca.2011.10.022}{10.1016/j.aca.2011.10.022}]
+  [PubMed:\href{https://www.ncbi.nlm.nih.gov/pubmed/11795513}{11795513}].
 
 \bibitem{bib:microfluidic_protein_chromatography}
 F.~A. Gomez.
@@ -22,64 +23,19 @@ F.~A. Gomez.
   [DOI:\href{https://dx.doi.org/10.1007/978-1-60761-913-0\_8}{10.1007/978-1-60761-913-0\_8}]
   [PubMed:\href{https://www.ncbi.nlm.nih.gov/pubmed/20978964}{20978964}].
 
-\bibitem{bib:early_chromatograph}
-A.~Manz, Y.~Miyahara, J.~Miura, Y.~Watanabe, H.~Miyagi, and K.~Sato.
-\newblock Design of an open-tubular column liquid chromatograph using silicon
-  chip technology.
-\newblock {\em Sensors and Actuators B: Chemical}, 1(1):249--255, 1990.
+\bibitem{bib:droplet_microfluidics_review}
+Pingan Zhu and Liqiu Wang.
+\newblock Passive and active droplet generation with microfluidics: a review.
+\newblock {\em Lab on a chip}, 17(1):34—75, December 2016.
 
-\bibitem{bib:adsorption_reaction_principles}
-Richard~I. Masel.
-\newblock Principles of adsorption and reaction on solid surfaces.
-\newblock Wiley Interscience, 1996.
-
-\bibitem{bib:PoC_trends}
-Jorge~Ricardo Mejía-Salazar, Kamilla Rodrigues~Cruz, Elsa~María
-  Materón~Vásques, and Osvaldo Novais~de Oliveira~Jr.
-\newblock Microfluidic point-of-care devices: New trends and future prospects
-  for ehealth diagnostics.
-\newblock {\em Sensors}, 20(7), 2020.
-
-\bibitem{bib:TCM}
-David~G. Myszka, Xiaoyi He, Micah Dembo, Thomas~A. Morton, and Byron Goldstein.
-\newblock Extending the range of rate constants available from biacore:
-  Interpreting mass transport-influenced binding data.
-\newblock {\em Biophysical Journal}, 75(2):583--594, 1998.
-
-\bibitem{bib:fabrication_and_application}
-Adelina-Gabriela Niculescu, Cristina Chircov, Alexandra~Cătălina Bîrcă, and
-  Alexandru~Mihai Grumezescu.
-\newblock Fabrication and applications of microfluidic devices: A review.
-\newblock {\em International Journal of Molecular Sciences}, 22(4), 2021.
-
-\bibitem{bib:freundlich_kinetics}
-Patiha, M~Firdaus, S~Wahyuningsih, K~D Nugrahaningtyas, and Y~Hidayat.
-\newblock Derivation and constants determination of the freundlich and
-  (fractal) langmuir adsorption isotherms from kinetics.
-\newblock {\em {IOP} Conference Series: Materials Science and Engineering},
-  333:012010, mar 2018.
-
-\bibitem{bib:phys_chem_hydro_layers}
-Ronald~F. Probstein.
-\newblock {\em Physicochemical Hydrodynamics}, chapter~4, pages 53--107.
-\newblock John Wiley \& Sons, Ltd, 1994.
-
-\bibitem{bib:protein_a_b_ig_g}
-K.~Saha, F.~Bender, and E.~Gizeli.
-\newblock {{C}omparative study of {I}g{G} binding to proteins {G} and {A}:
-  nonequilibrium kinetic and binding constant determination with the acoustic
-  waveguide device}.
-\newblock {\em Anal Chem}, 75(4):835--842, Feb 2003.
-\newblock [DOI:\href{https://dx.doi.org/10.1021/ac0204911}{10.1021/ac0204911}]
-  [PubMed:\href{https://www.ncbi.nlm.nih.gov/pubmed/12622374}{12622374}].
-
-\bibitem{bib:biotin_streptavidin_kinetics}
-M.~Srisa-Art, E.~C. Dyson, A.~J. deMello, and J.~B. Edel.
-\newblock {{M}onitoring of real-time streptavidin-biotin binding kinetics using
-  droplet microfluidics}.
-\newblock {\em Anal Chem}, 80(18):7063--7067, Sep 2008.
-\newblock [DOI:\href{https://dx.doi.org/10.1021/ac801199k}{10.1021/ac801199k}]
-  [PubMed:\href{https://www.ncbi.nlm.nih.gov/pubmed/18712935}{18712935}].
+\bibitem{bib:biosensor_intro}
+N.~Bhalla, P.~Jolly, N.~Formisano, and P.~Estrela.
+\newblock {{I}ntroduction to biosensors}.
+\newblock {\em Essays Biochem}, 60(1):1--8, 06 2016.
+\newblock [PubMed
+  Central:\href{https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4986445}{PMC4986445}]
+  [DOI:\href{https://dx.doi.org/10.1042/EBC20150001}{10.1042/EBC20150001}]
+  [PubMed:\href{https://www.ncbi.nlm.nih.gov/pubmed/20151038}{20151038}].
 
 \bibitem{bib:marker_effect}
 Y.~S. Sun, J.~P. Landry, Y.~Y. Fei, X.~D. Zhu, J.~T. Luo, X.~B. Wang, and K.~S.
@@ -92,18 +48,74 @@ Y.~S. Sun, J.~P. Landry, Y.~Y. Fei, X.~D. Zhu, J.~T. Luo, X.~B. Wang, and K.~S.
   [DOI:\href{https://dx.doi.org/10.1021/la802097z}{10.1021/la802097z}]
   [PubMed:\href{https://www.ncbi.nlm.nih.gov/pubmed/18566623}{18566623}].
 
-\bibitem{bib:droplet_microfluidics_review}
-Pingan Zhu and Liqiu Wang.
-\newblock Passive and active droplet generation with microfluidics: a review.
-\newblock {\em Lab on a chip}, 17(1):34—75, December 2016.
+\bibitem{bib:early_chromatograph}
+A.~Manz, Y.~Miyahara, J.~Miura, Y.~Watanabe, H.~Miyagi, and K.~Sato.
+\newblock Design of an open-tubular column liquid chromatograph using silicon
+  chip technology.
+\newblock {\em Sensors and Actuators B: Chemical}, 1(1):249--255, 1990.
 
-\bibitem{bib:capillary_protein_electrophoresis}
-Z.~Zhu, J.~J. Lu, and S.~Liu.
-\newblock {{P}rotein separation by capillary gel electrophoresis: a review}.
-\newblock {\em Anal Chim Acta}, 709:21--31, Jan 2012.
-\newblock [PubMed
-  Central:\href{https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3227876}{PMC3227876}]
-  [DOI:\href{https://dx.doi.org/10.1016/j.aca.2011.10.022}{10.1016/j.aca.2011.10.022}]
-  [PubMed:\href{https://www.ncbi.nlm.nih.gov/pubmed/11795513}{11795513}].
+\bibitem{bib:poc_rsa}
+A.~R. Meyer and M.~A. Gorin.
+\newblock {{F}irst point-of-care {P}{S}{A} test for prostate cancer detection}.
+\newblock {\em Nat Rev Urol}, 16(6):331--332, Jun 2019.
+\newblock
+  [DOI:\href{https://dx.doi.org/10.1038/s41585-019-0179-1}{10.1038/s41585-019-0179-1}]
+  [PubMed:\href{https://www.ncbi.nlm.nih.gov/pubmed/30948842}{30948842}].
+
+\bibitem{bib:klimov_nanoplasmonics}
+Климов~В. В.
+\newblock {\em Наноплазмоника}.
+\newblock М. ФИЗМАТЛИТ, 2009.
+\newblock ISBN 978-5-9221-1030-3.
+
+\bibitem{bib:qcm_odor}
+Arief Yuwono and Peter Schulze~Lammers.
+\newblock Odor pollution in the environment and the detection instrumentation.
+\newblock 6, 11 2003.
+
+\bibitem{bib:adsorption_reaction_principles}
+Richard~I. Masel.
+\newblock Principles of adsorption and reaction on solid surfaces.
+\newblock Wiley Interscience, 1996.
+
+\bibitem{bib:freundlich_kinetics}
+Patiha, M~Firdaus, S~Wahyuningsih, K~D Nugrahaningtyas, and Y~Hidayat.
+\newblock Derivation and constants determination of the freundlich and
+  (fractal) langmuir adsorption isotherms from kinetics.
+\newblock {\em {IOP} Conference Series: Materials Science and Engineering},
+  333:012010, mar 2018.
+
+\bibitem{bib:FULLTEXT_inverse_example}
+Fredrik Bostr{\"o}m.
+\newblock Single-cycle kinetics for qcm biosensors for high throughput
+  nanoparticle characterization application, 2016.
+
+\bibitem{bib:TCM}
+David~G. Myszka, Xiaoyi He, Micah Dembo, Thomas~A. Morton, and Byron Goldstein.
+\newblock Extending the range of rate constants available from biacore:
+  Interpreting mass transport-influenced binding data.
+\newblock {\em Biophysical Journal}, 75(2):583--594, 1998.
+
+\bibitem{bib:phys_chem_hydro_layers}
+Ronald~F. Probstein.
+\newblock {\em Physicochemical Hydrodynamics}, chapter~4, pages 53--107.
+\newblock John Wiley \& Sons, Ltd, 1994.
+
+\bibitem{bib:biotin_streptavidin_kinetics}
+M.~Srisa-Art, E.~C. Dyson, A.~J. deMello, and J.~B. Edel.
+\newblock {{M}onitoring of real-time streptavidin-biotin binding kinetics using
+  droplet microfluidics}.
+\newblock {\em Anal Chem}, 80(18):7063--7067, Sep 2008.
+\newblock [DOI:\href{https://dx.doi.org/10.1021/ac801199k}{10.1021/ac801199k}]
+  [PubMed:\href{https://www.ncbi.nlm.nih.gov/pubmed/18712935}{18712935}].
+
+\bibitem{bib:protein_a_b_ig_g}
+K.~Saha, F.~Bender, and E.~Gizeli.
+\newblock {{C}omparative study of {I}g{G} binding to proteins {G} and {A}:
+  nonequilibrium kinetic and binding constant determination with the acoustic
+  waveguide device}.
+\newblock {\em Anal Chem}, 75(4):835--842, Feb 2003.
+\newblock [DOI:\href{https://dx.doi.org/10.1021/ac0204911}{10.1021/ac0204911}]
+  [PubMed:\href{https://www.ncbi.nlm.nih.gov/pubmed/12622374}{12622374}].
 
 \end{thebibliography}
