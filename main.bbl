@@ -54,6 +54,13 @@ A.~Manz, Y.~Miyahara, J.~Miura, Y.~Watanabe, H.~Miyagi, and K.~Sato.
   chip technology.
 \newblock {\em Sensors and Actuators B: Chemical}, 1(1):249--255, 1990.
 
+\bibitem{bib:PoC_trends}
+Jorge~Ricardo Mejía-Salazar, Kamilla Rodrigues~Cruz, Elsa~María
+  Materón~Vásques, and Osvaldo Novais~de Oliveira~Jr.
+\newblock Microfluidic point-of-care devices: New trends and future prospects
+  for ehealth diagnostics.
+\newblock {\em Sensors}, 20(7), 2020.
+
 \bibitem{bib:poc_rsa}
 A.~R. Meyer and M.~A. Gorin.
 \newblock {{F}irst point-of-care {P}{S}{A} test for prostate cancer detection}.
@@ -72,6 +79,14 @@ A.~R. Meyer and M.~A. Gorin.
 Arief Yuwono and Peter Schulze~Lammers.
 \newblock Odor pollution in the environment and the detection instrumentation.
 \newblock 6, 11 2003.
+
+\bibitem{bib:ll}
+Лифшиц Е.~М. Ландау Л.~Д.
+\newblock {\em Теоретическая физика: Учеб. пособ.:
+  Для вузов. В 10 т. Т. VI. Гидродинамика. — 5-е
+  изд., стереот.}
+\newblock М. ФИЗМАТЛИТ, 2001.
+\newblock ISBN 5-9221-0121-8.
 
 \bibitem{bib:adsorption_reaction_principles}
 Richard~I. Masel.
@@ -100,6 +115,19 @@ David~G. Myszka, Xiaoyi He, Micah Dembo, Thomas~A. Morton, and Byron Goldstein.
 Ronald~F. Probstein.
 \newblock {\em Physicochemical Hydrodynamics}, chapter~4, pages 53--107.
 \newblock John Wiley \& Sons, Ltd, 1994.
+
+\bibitem{bib:hairer_stiff}
+Ernst Hairer and Gerhard Wanner.
+\newblock Solving ordinary differential equations {I}{I}: Stiff and
+  differential-algebraic problems.
+\newblock 2002.
+
+\bibitem{bib:inverse_pde}
+Victor Isakov.
+\newblock {\em Inverse Problems for Partial Differential Equations}.
+\newblock Applied Mathematical Sciences. Springer Cham, 3 edition, 2017.
+\newblock
+  [DOI:\href{https://doi.org/10.1007/978-3-319-51658-5}{10.1007/978-3-319-51658-5}].
 
 \bibitem{bib:biotin_streptavidin_kinetics}
 M.~Srisa-Art, E.~C. Dyson, A.~J. deMello, and J.~B. Edel.

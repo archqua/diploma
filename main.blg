@@ -1,4 +1,4 @@
-This is BibTeX, Version 0.99d (TeX Live 2021/Arch Linux)
+This is BibTeX, Version 0.99d (TeX Live 2022/Arch Linux)
 Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: main.aux
 The style file: unsrt.bst
@@ -7,45 +7,46 @@ Database file #2: bib/springer_handbook.bib
 Database file #3: bib/phys_chem_hydro_layers.bib
 Warning--empty journal in bib:qcm_odor
 Warning--empty booktitle in bib:adsorption_reaction_principles
-You've used 17 entries,
+Warning--empty booktitle in bib:hairer_stiff
+You've used 21 entries,
             1791 wiz_defined-function locations,
-            573 strings with 8013 characters,
-and the built_in function-call counts, 4000 in all, are:
-= -- 350
-> -- 185
+            597 strings with 8852 characters,
+and the built_in function-call counts, 4683 in all, are:
+= -- 408
+> -- 215
 < -- 2
-+ -- 69
-- -- 52
-* -- 307
-:= -- 651
-add.period$ -- 58
-call.type$ -- 17
-change.case$ -- 15
++ -- 81
+- -- 60
+* -- 335
+:= -- 765
+add.period$ -- 73
+call.type$ -- 21
+change.case$ -- 18
 chr.to.int$ -- 0
-cite$ -- 19
-duplicate$ -- 160
-empty$ -- 385
-format.name$ -- 52
-if$ -- 869
+cite$ -- 24
+duplicate$ -- 199
+empty$ -- 461
+format.name$ -- 60
+if$ -- 1027
 int.to.chr$ -- 0
-int.to.str$ -- 17
-missing$ -- 18
-newline$ -- 95
-num.names$ -- 17
-pop$ -- 35
+int.to.str$ -- 21
+missing$ -- 24
+newline$ -- 117
+num.names$ -- 21
+pop$ -- 53
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 64
+skip$ -- 76
 stack$ -- 0
 substring$ -- 279
-swap$ -- 24
+swap$ -- 28
 text.length$ -- 2
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
-warning$ -- 2
-while$ -- 37
-width$ -- 19
-write$ -- 199
-(There were 2 warnings)
+warning$ -- 3
+while$ -- 41
+width$ -- 23
+write$ -- 245
+(There were 3 warnings)

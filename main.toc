@@ -5,14 +5,14 @@
 \contentsline {subsection}{2.2. Микрофлюидные аналитические системы}{5}{section*.7}%
 \contentsline {subsection}{2.3. Биосенсоры}{7}{section*.10}%
 \contentsline {subsection}{2.4. Математическое описание релевантных физическо-химических процессов}{9}{section*.14}%
-\contentsline {subsection}{2.5. Моделирование в микрофлюидике}{13}{section*.21}%
-\contentsline {section}{3. Основное содержание}{17}{section*.26}%
-\contentsline {subsection}{3.1. Описание задач}{17}{section*.27}%
-\contentsline {subsection}{3.2. Адсорбция на поверхность бесконечно высокого канала с одним видом сайтов связывания}{17}{section*.32}%
-\contentsline {subsection}{3.3. Адсорбция на поверхность бесконечно высокого канала с двумя видами сайтов связывания}{22}{section*.42}%
-\contentsline {subsection}{3.4. Адсорбция на поверхность канала конечной высоты с двумя видами сайтов связывания}{28}{section*.53}%
-\contentsline {subsection}{3.5. Адсорбция на микросферах}{31}{section*.58}%
-\contentsline {section}{4. Материалы и методы}{37}{section*.67}%
-\contentsline {section}{5. Результаты и обсуждение}{37}{section*.68}%
-\contentsline {section}{6. Выводы}{38}{section*.69}%
-\contentsline {section}{7. Благодарности}{38}{section*.70}%
+\contentsline {subsection}{2.5. Моделирование в микрофлюидике}{14}{section*.22}%
+\contentsline {section}{3. Основное содержание}{17}{section*.27}%
+\contentsline {subsection}{3.1. Описание задач}{17}{section*.28}%
+\contentsline {subsection}{3.2. Адсорбция на поверхность бесконечно высокого канала с одним видом сайтов связывания}{18}{section*.34}%
+\contentsline {subsection}{3.3. Адсорбция на поверхность бесконечно высокого канала с двумя видами сайтов связывания}{23}{section*.42}%
+\contentsline {subsection}{3.4. Адсорбция на поверхность канала конечной высоты с двумя видами сайтов связывания}{29}{section*.53}%
+\contentsline {subsection}{3.5. Адсорбция на микросферах}{32}{section*.58}%
+\contentsline {section}{4. Материалы и методы}{37}{section*.66}%
+\contentsline {section}{5. Результаты и обсуждение}{37}{section*.67}%
+\contentsline {section}{6. Выводы}{38}{section*.68}%
+\contentsline {section}{7. Благодарности}{38}{section*.69}%
