@@ -1,14 +1,14 @@
 # Fdb version 3
-["bibtex main"] 1653572025 "main.aux" "main.bbl" "main" 1653572027
+["bibtex main"] 1655214777 "main.aux" "main.bbl" "main" 1655217070
   "/usr/share/texmf-dist/bibtex/bst/base/unsrt.bst" 1650215467 18030 1376b4b231b50c66211e47e42eda2875 ""
   "bib/phys_chem_hydro_layers.bib" 1650449430 913 956af67195fad183eb12fff0d5d34695 ""
   "bib/springer_handbook.bib" 1650449430 480 9acd42a8e65dd7b2e40e75789f6a60ce ""
-  "bibliography.bib" 1653568902 17698 f8df0bac0eff63287e1ace343b6c7424 ""
-  "main.aux" 1653572027 40106 765632a0760ebbe6165a89be74fb6e94 "pdflatex"
+  "bibliography.bib" 1655212708 24879 b53f0dc884d7a09ee1107be13db19e65 ""
+  "main.aux" 1655217069 41662 4bb7c047a2f5d0e481708d8bae278b76 "pdflatex"
   (generated)
   "main.bbl"
   "main.blg"
-["pdflatex"] 1653572025 "main.tex" "main.pdf" "main" 1653572027
+["pdflatex"] 1655217067 "main.tex" "main.pdf" "main" 1655217070
   "/home/tor/.texlive/texmf-var/fonts/tfm/lh/lh-t2a/labx1200.tfm" 1636986986 3308 eee81981029f67083258db36df06e523 ""
   "/home/tor/.texlive/texmf-var/fonts/tfm/lh/lh-t2a/labx1440.tfm" 1623788423 3304 6a543c07045572737981351171e0505e ""
   "/home/tor/.texlive/texmf-var/fonts/tfm/lh/lh-t2a/labx1728.tfm" 1632899852 3312 d199be9bd555944e2403193d58a0256a ""
@@ -107,6 +107,7 @@
   "/usr/share/texmf-dist/tex/latex/base/t2aenc.dfu" 1650215467 9877 0d315dae7f192479f41fb27f6803ab1a ""
   "/usr/share/texmf-dist/tex/latex/caption/caption.sty" 1650215467 54291 b8e5c600d4aa37b48a740dd2a6c26163 ""
   "/usr/share/texmf-dist/tex/latex/caption/caption3.sty" 1650215467 71241 d2cd3a1c5acef9cb31f945b93c0bb6e3 ""
+  "/usr/share/texmf-dist/tex/latex/cite/cite.sty" 1650215467 26218 19edeff8cdc2bcb704e8051dc55eb5a7 ""
   "/usr/share/texmf-dist/tex/latex/cyrillic/t2acmr.fd" 1650217565 2562 d9552c7bbba7c739be0e3edc79b79dbb ""
   "/usr/share/texmf-dist/tex/latex/cyrillic/t2aenc.def" 1650217565 12038 0675a914f4ef655c59b5d82e90103345 ""
   "/usr/share/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty" 1650215467 13886 d1306dcf79a944f6988e688c1785f9ce ""
@@ -150,11 +151,11 @@
   "/usr/share/texmf-dist/web2c/texmf.cnf" 1650215467 39911 2da6c67557ec033436fe5418a70a8a61 ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1652704095 4319996 5876ef8e8bfd40cea6a26ec3fe74d5ab ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1652704088 2927660 030e744b5c6bf25b261a07e122f3d3fd ""
-  "main.aux" 1653572027 40106 765632a0760ebbe6165a89be74fb6e94 "pdflatex"
-  "main.bbl" 1653572025 6379 343c61fb768c6f89bab381c8d97783db "bibtex main"
-  "main.out" 1653572027 5605 b08c1b0194d68afcfd785687f1cb9950 "pdflatex"
-  "main.tex" 1653572021 112046 553ff12502a93ae2e8f6da2dfc22f9a9 ""
-  "main.toc" 1653572027 1903 650092f4577983609376ceed2abc80cd "pdflatex"
+  "main.aux" 1655217069 41662 4bb7c047a2f5d0e481708d8bae278b76 "pdflatex"
+  "main.bbl" 1655214777 9071 83075f7d782af3679e5669d9aef42e3a "bibtex main"
+  "main.out" 1655217069 5681 972032cc1e7ec48b6f40b3f03460236e "pdflatex"
+  "main.tex" 1655217051 115771 51413f8f1e65c204e9a6a8d87d6cea05 ""
+  "main.toc" 1655217069 1955 cd046474b05ffb345717ea5d30cd9627 "pdflatex"
   "pic/FULLTEXT_inverse_example.png" 1650449430 460650 acf94580b30d04e1b00c3fd3bff9a8b7 ""
   "pic/areas_of_application_of_biosensors.png" 1652354395 64072 e6c86f045f3177cb8fa9287aedd86331 ""
   "pic/basis_functions_FEM_illustration1d.png" 1650449430 24620 3d9bee092d0e5f53f907a4f630119b1e ""
@@ -197,6 +198,7 @@
   "pic/flat_wide_twosurf_plane_abs.png" 1650462118 68148 1654e8b6dcf0adb3243f822f8ddbffc5 ""
   "pic/flat_wide_twosurf_sum_betas.png" 1650465789 134457 50edf1a4f742911f47648db401206f00 ""
   "pic/flat_wide_twosurf_veldistrib.png" 1650459772 39646 68220f0a1863003ecafce6538ace710c ""
+  "pic/fm_multiplex.jpg" 1653907188 76632 fe2e11beaf709476df6da9871213347a ""
   "pic/miniature_chromatograph_scheme.png" 1652347953 177704 96ead3dc21a2b5dd615e05aab4a9d3cf ""
   "pic/qcm_rus.png" 1652362153 73948 a4dffcf96b06edc17ee8d0130a0465cd ""
   "pic/sphere_flow_dil100_20s_2d_concentration.png" 1651055199 44463 c8ae490adc44228c61f18afae17e8c0d ""

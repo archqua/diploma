@@ -5,48 +5,49 @@ The style file: unsrt.bst
 Database file #1: bibliography.bib
 Database file #2: bib/springer_handbook.bib
 Database file #3: bib/phys_chem_hydro_layers.bib
+Warning--can't use both author and editor fields in bib:spr_biodetection
 Warning--empty journal in bib:qcm_odor
 Warning--empty booktitle in bib:adsorption_reaction_principles
 Warning--empty booktitle in bib:hairer_stiff
-You've used 21 entries,
+You've used 29 entries,
             1791 wiz_defined-function locations,
-            597 strings with 8852 characters,
-and the built_in function-call counts, 4683 in all, are:
-= -- 408
-> -- 215
-< -- 2
-+ -- 81
-- -- 60
-* -- 335
-:= -- 765
-add.period$ -- 73
-call.type$ -- 21
-change.case$ -- 18
+            648 strings with 11186 characters,
+and the built_in function-call counts, 6647 in all, are:
+= -- 563
+> -- 347
+< -- 3
++ -- 128
+- -- 99
+* -- 495
+:= -- 1101
+add.period$ -- 99
+call.type$ -- 29
+change.case$ -- 25
 chr.to.int$ -- 0
-cite$ -- 24
-duplicate$ -- 199
-empty$ -- 461
-format.name$ -- 60
-if$ -- 1027
+cite$ -- 33
+duplicate$ -- 276
+empty$ -- 624
+format.name$ -- 99
+if$ -- 1447
 int.to.chr$ -- 0
-int.to.str$ -- 21
-missing$ -- 24
-newline$ -- 117
-num.names$ -- 21
-pop$ -- 53
+int.to.str$ -- 29
+missing$ -- 33
+newline$ -- 159
+num.names$ -- 29
+pop$ -- 65
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 76
+skip$ -- 112
 stack$ -- 0
-substring$ -- 279
-swap$ -- 28
-text.length$ -- 2
+substring$ -- 376
+swap$ -- 44
+text.length$ -- 3
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
-warning$ -- 3
-while$ -- 41
-width$ -- 23
-write$ -- 245
-(There were 3 warnings)
+warning$ -- 4
+while$ -- 56
+width$ -- 31
+write$ -- 337
+(There were 4 warnings)

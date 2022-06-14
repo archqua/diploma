@@ -6,6 +6,28 @@ Adelina-Gabriela Niculescu, Cristina Chircov, Alexandra~Cătălina Bîrcă, and
 \newblock Fabrication and applications of microfluidic devices: A review.
 \newblock {\em International Journal of Molecular Sciences}, 22(4), 2021.
 
+\bibitem{bib:evstrapov_mf_chip}
+Евстрапов~А. А.
+\newblock Микрофлюидные чипы для биологических
+  и медицинских исследований.
+\newblock {\em Рос. хим. ж. (Ж. Рос. хим. об-ва им. Д.И.
+  Менделеева)}, LV(2), 2011.
+
+\bibitem{bib:white_mf_as}
+В.~Е. Курочкин, А.~А. Евстрапов, В.~Л. Суханов,
+  Б.~Г. Беленький, and Н.~И. Комяк.
+\newblock Микрюфлюидные аналитические системы.
+\newblock {\em НАУЧНОЕ ПРИБОРОСТРОЕНИЕ}, 10(3), 2000.
+
+\bibitem{bib:poc_infectious}
+L.~Hocking, J.~George, E.~K. Broberg, M.~J. Struelens, K.~C. Leitmeyer,
+  A.~Deshpande, S.~Parkinson, J.~Francombe, K.~I. Morley, and
+  H.~de~Carvalho~Gomes.
+\newblock A scoping review of point-of-care testing devices for infectious
+  disease surveillance, prevention and control.
+\newblock {\em European Centre for Disease Prevention and Control}, Apr 2022.
+\newblock [DOI:10.2900/443139] [ISBN:978-92-9498-569-9].
+
 \bibitem{bib:capillary_protein_electrophoresis}
 Z.~Zhu, J.~J. Lu, and S.~Liu.
 \newblock {{P}rotein separation by capillary gel electrophoresis: a review}.
@@ -69,6 +91,32 @@ A.~R. Meyer and M.~A. Gorin.
   [DOI:\href{https://dx.doi.org/10.1038/s41585-019-0179-1}{10.1038/s41585-019-0179-1}]
   [PubMed:\href{https://www.ncbi.nlm.nih.gov/pubmed/30948842}{30948842}].
 
+\bibitem{bib:lrspr_review}
+Jian-Ying Jing, Qi~Wang, Wan-Ming Zhao, and Bo-Tao Wang.
+\newblock Long-range surface plasmon resonance and its sensing applications: A
+  review.
+\newblock {\em Optics and Lasers in Engineering}, 112:103--118, 2019.
+
+\bibitem{bib:spr_simultaneous}
+Allen~D. Taylor, Jon Ladd, Qiuming Yu, Shengfu Chen, Jiří Homola, and Shaoyi
+  Jiang.
+\newblock Quantitative and simultaneous detection of four foodborne bacterial
+  pathogens with a multi-channel spr sensor.
+\newblock {\em Biosensors and Bioelectronics}, 22(5):752--758, 2006.
+
+\bibitem{bib:spr_biodetection}
+Marek Piliarik, Hana Vaisocherov{\'a}, and Ji{\v{r}}{\'i} Homola.
+\newblock {\em Biosensors and Biodetection}, pages 65--88.
+\newblock Humana Press, Totowa, NJ, 2009.
+
+\bibitem{bib:odpc_visualization}
+Irina Soboleva, Emiliano Descrovi, Lorenzo Dominici, Francesco Michelotti,
+  Fabrizio Giorgis, and Andrey Fedyanin.
+\newblock Visualization of surface electromagnetic waves in one-dimensional
+  photonic crystal by fluorescence dye.
+\newblock {\em Proceedings of SPIE - The International Society for Optical
+  Engineering}, 7356, 05 2009.
+
 \bibitem{bib:klimov_nanoplasmonics}
 Климов~В. В.
 \newblock {\em Наноплазмоника}.
@@ -79,6 +127,16 @@ A.~R. Meyer and M.~A. Gorin.
 Arief Yuwono and Peter Schulze~Lammers.
 \newblock Odor pollution in the environment and the detection instrumentation.
 \newblock 6, 11 2003.
+
+\bibitem{bib:fm_multiplex}
+B.~H. Jun, H.~Kang, Y.~S. Lee, and D.~H. Jeong.
+\newblock {{F}luorescence-based multiplex protein detection using optically
+  encoded microbeads}.
+\newblock {\em Molecules}, 17(3):2474--2490, Mar 2012.
+\newblock [PubMed
+  Central:\href{https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6268487}{PMC6268487}]
+  [DOI:\href{https://dx.doi.org/10.3390/molecules17032474}{10.3390/molecules17032474}]
+  [PubMed:\href{https://www.ncbi.nlm.nih.gov/pubmed/15047203}{15047203}].
 
 \bibitem{bib:ll}
 Лифшиц Е.~М. Ландау Л.~Д.
