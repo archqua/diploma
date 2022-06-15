@@ -1,207 +1,1298 @@
-\begin{thebibliography}{10}
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
 
-\bibitem{bib:fabrication_and_application}
-Adelina-Gabriela Niculescu, Cristina Chircov, Alexandra~Cătălina Bîrcă, and
-  Alexandru~Mihai Grumezescu.
-\newblock Fabrication and applications of microfluidic devices: A review.
-\newblock {\em International Journal of Molecular Sciences}, 22(4), 2021.
 
-\bibitem{bib:evstrapov_mf_chip}
-Евстрапов~А. А.
-\newblock Микрофлюидные чипы для биологических
-  и медицинских исследований.
-\newblock {\em Рос. хим. ж. (Ж. Рос. хим. об-ва им. Д.И.
-  Менделеева)}, LV(2), 2011.
+\refsection{0}
+  \datalist[entry]{none/global//global/global}
+    \entry{bib:fabrication_and_application}{article}{}
+      \name{author}{4}{}{%
+        {{hash=fe4af8d8e63ff739bc09a2f4f5116e64}{%
+           family={Niculescu},
+           familyi={N\bibinitperiod},
+           given={Adelina-Gabriela},
+           giveni={A\bibinithyphendelim G\bibinitperiod}}}%
+        {{hash=9f262d50a55029e1452192fdfdbc7159}{%
+           family={Chircov},
+           familyi={C\bibinitperiod},
+           given={Cristina},
+           giveni={C\bibinitperiod}}}%
+        {{hash=9d74c329bb589ffbbaf3488cf0d50f67}{%
+           family={Bîrcă},
+           familyi={B\bibinitperiod},
+           given={Alexandra\bibnamedelima Cătălina},
+           giveni={A\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=7bd157f6ec336765fc1e66a16694ef48}{%
+           family={Grumezescu},
+           familyi={G\bibinitperiod},
+           given={Alexandru\bibnamedelima Mihai},
+           giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \strng{namehash}{d397ae4544d73e36550a1a93bb40828d}
+      \strng{fullhash}{c8065d6382b5c3a0ea58411774e1b66a}
+      \strng{bibnamehash}{d397ae4544d73e36550a1a93bb40828d}
+      \strng{authorbibnamehash}{d397ae4544d73e36550a1a93bb40828d}
+      \strng{authornamehash}{d397ae4544d73e36550a1a93bb40828d}
+      \strng{authorfullhash}{c8065d6382b5c3a0ea58411774e1b66a}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Microfluidics is a relatively newly emerged field based on the combined principles of physics, chemistry, biology, fluid dynamics, microelectronics, and material science. Various materials can be processed into miniaturized chips containing channels and chambers in the microscale range. A diverse repertoire of methods can be chosen to manufacture such platforms of desired size, shape, and geometry. Whether they are used alone or in combination with other devices, microfluidic chips can be employed in nanoparticle preparation, drug encapsulation, delivery, and targeting, cell analysis, diagnosis, and cell culture. This paper presents microfluidic technology in terms of the available platform materials and fabrication techniques, also focusing on the biomedical applications of these remarkable devices.}
+      \field{issn}{1422-0067}
+      \field{journaltitle}{International Journal of Molecular Sciences}
+      \field{number}{4}
+      \field{title}{Fabrication and Applications of Microfluidic Devices: A Review}
+      \field{volume}{22}
+      \field{year}{2021}
+      \verb{doi}
+      \verb 10.3390/ijms22042011
+      \endverb
+      \verb{urlraw}
+      \verb https://www.mdpi.com/1422-0067/22/4/2011
+      \endverb
+      \verb{url}
+      \verb https://www.mdpi.com/1422-0067/22/4/2011
+      \endverb
+    \endentry
+    \entry{bib:evstrapov_mf_chip}{article}{}
+      \name{author}{1}{}{%
+        {{hash=5dbb80c8938d411a5693b49a02ef1d7d}{%
+           family={А.},
+           familyi={А\bibinitperiod},
+           given={Евстрапов\bibnamedelima А.},
+           giveni={Е\bibinitperiod\bibinitdelim А\bibinitperiod}}}%
+      }
+      \strng{namehash}{5dbb80c8938d411a5693b49a02ef1d7d}
+      \strng{fullhash}{5dbb80c8938d411a5693b49a02ef1d7d}
+      \strng{bibnamehash}{5dbb80c8938d411a5693b49a02ef1d7d}
+      \strng{authorbibnamehash}{5dbb80c8938d411a5693b49a02ef1d7d}
+      \strng{authornamehash}{5dbb80c8938d411a5693b49a02ef1d7d}
+      \strng{authorfullhash}{5dbb80c8938d411a5693b49a02ef1d7d}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Рос. хим. ж. (Ж. Рос. хим. об-ва им. Д.И. Менделеева)}
+      \field{number}{2}
+      \field{title}{Микрофлюидные чипы для биологических и медицинских исследований}
+      \field{volume}{LV}
+      \field{year}{2011}
+    \endentry
+    \entry{bib:white_mf_as}{article}{}
+      \name{author}{5}{}{%
+        {{hash=266bc431b7b6c3b63be9c5ba839aeeb6}{%
+           family={Курочкин},
+           familyi={К\bibinitperiod},
+           given={В.\bibnamedelimi Е.},
+           giveni={В\bibinitperiod\bibinitdelim Е\bibinitperiod}}}%
+        {{hash=4d629e2e8e2c70592e752fb82e6f3b5a}{%
+           family={Евстрапов},
+           familyi={Е\bibinitperiod},
+           given={А.\bibnamedelimi А.},
+           giveni={А\bibinitperiod\bibinitdelim А\bibinitperiod}}}%
+        {{hash=7d6ade054ca22aac471ce97df6e62bb4}{%
+           family={Суханов},
+           familyi={С\bibinitperiod},
+           given={В.\bibnamedelimi Л.},
+           giveni={В\bibinitperiod\bibinitdelim Л\bibinitperiod}}}%
+        {{hash=c30aea5217adaa2d9b3508bb1bff4956}{%
+           family={Беленький},
+           familyi={Б\bibinitperiod},
+           given={Б.\bibnamedelimi Г.},
+           giveni={Б\bibinitperiod\bibinitdelim Г\bibinitperiod}}}%
+        {{hash=414df96efe19f08e2db58158e6c9a511}{%
+           family={Комяк},
+           familyi={К\bibinitperiod},
+           given={Н.\bibnamedelimi И.},
+           giveni={Н\bibinitperiod\bibinitdelim И\bibinitperiod}}}%
+      }
+      \strng{namehash}{e38a01f95b439dcc54998980c6c89666}
+      \strng{fullhash}{9800d0ba8d4783ea97703d0f918d0838}
+      \strng{bibnamehash}{e38a01f95b439dcc54998980c6c89666}
+      \strng{authorbibnamehash}{e38a01f95b439dcc54998980c6c89666}
+      \strng{authornamehash}{e38a01f95b439dcc54998980c6c89666}
+      \strng{authorfullhash}{9800d0ba8d4783ea97703d0f918d0838}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{НАУЧНОЕ ПРИБОРОСТРОЕНИЕ}
+      \field{number}{3}
+      \field{title}{Микрюфлюидные аналитические системы}
+      \field{volume}{10}
+      \field{year}{2000}
+    \endentry
+    \entry{bib:poc_infectious}{article}{}
+      \name{author}{10}{}{%
+        {{hash=91da3564e29db56aa95def094c6ee82c}{%
+           family={Hocking},
+           familyi={H\bibinitperiod},
+           given={L.},
+           giveni={L\bibinitperiod}}}%
+        {{hash=b5dbf34843f70915a20dc59121ca0685}{%
+           family={George},
+           familyi={G\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+        {{hash=2af210cdb4abe15602f137c8ea0bdcfb}{%
+           family={Broberg},
+           familyi={B\bibinitperiod},
+           given={E.\bibnamedelimi K.},
+           giveni={E\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=592a96b40c9cff9879a1df0d1bc2dcc0}{%
+           family={Struelens},
+           familyi={S\bibinitperiod},
+           given={M.\bibnamedelimi J.},
+           giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=a5dda4d31003e01698cd38ce7bce515c}{%
+           family={Leitmeyer},
+           familyi={L\bibinitperiod},
+           given={K.\bibnamedelimi C.},
+           giveni={K\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=33bf8f7fc9e9a81b26cf9ac97dacd855}{%
+           family={Deshpande},
+           familyi={D\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=f58bb47b645fd50549bbbcff35ba48ed}{%
+           family={Parkinson},
+           familyi={P\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+        {{hash=187e896f2fad4b44900943aa7fe1a6b0}{%
+           family={Francombe},
+           familyi={F\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+        {{hash=680ba0935563b65b6d44fb49baa93e89}{%
+           family={Morley},
+           familyi={M\bibinitperiod},
+           given={K.\bibnamedelimi I.},
+           giveni={K\bibinitperiod\bibinitdelim I\bibinitperiod}}}%
+        {{hash=453c4911cce9902deb8efebd471310c3}{%
+           family={Carvalho\bibnamedelima Gomes},
+           familyi={C\bibinitperiod\bibinitdelim G\bibinitperiod},
+           given={H.},
+           giveni={H\bibinitperiod},
+           prefix={de},
+           prefixi={d\bibinitperiod}}}%
+      }
+      \strng{namehash}{7208a5bd7a8d488ce14cb6df6c209024}
+      \strng{fullhash}{bf3b0f6537ab57dabdff5f0d8b9317af}
+      \strng{bibnamehash}{7208a5bd7a8d488ce14cb6df6c209024}
+      \strng{authorbibnamehash}{7208a5bd7a8d488ce14cb6df6c209024}
+      \strng{authornamehash}{7208a5bd7a8d488ce14cb6df6c209024}
+      \strng{authorfullhash}{bf3b0f6537ab57dabdff5f0d8b9317af}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{European Centre for Disease Prevention and Control}
+      \field{month}{4}
+      \field{note}{[DOI:10.2900/443139] [ISBN:978-92-9498-569-9]}
+      \field{title}{A scoping review of point-of-care testing devices for infectious disease surveillance, prevention and control}
+      \field{year}{2022}
+    \endentry
+    \entry{bib:capillary_protein_electrophoresis}{article}{}
+      \name{author}{3}{}{%
+        {{hash=1a773e1c5d961da64bdb0360d56c6d6a}{%
+           family={Zhu},
+           familyi={Z\bibinitperiod},
+           given={Z.},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=0104428dbdaf2e15a0976885ecfa5557}{%
+           family={Lu},
+           familyi={L\bibinitperiod},
+           given={J.\bibnamedelimi J.},
+           giveni={J\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=92faacc6874983183ce7fb86e39f31ec}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{07f47d1ff8951511d0b97df8014d0954}
+      \strng{fullhash}{07f47d1ff8951511d0b97df8014d0954}
+      \strng{bibnamehash}{07f47d1ff8951511d0b97df8014d0954}
+      \strng{authorbibnamehash}{07f47d1ff8951511d0b97df8014d0954}
+      \strng{authornamehash}{07f47d1ff8951511d0b97df8014d0954}
+      \strng{authorfullhash}{07f47d1ff8951511d0b97df8014d0954}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Anal Chim Acta}
+      \field{month}{1}
+      \field{note}{[PubMed Central:\href{https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3227876}{PMC3227876}] [DOI:\href{https://dx.doi.org/10.1016/j.aca.2011.10.022}{10.1016/j.aca.2011.10.022}] [PubMed:\href{https://www.ncbi.nlm.nih.gov/pubmed/11795513}{11795513}]}
+      \field{title}{{{P}rotein separation by capillary gel electrophoresis: a review}}
+      \field{volume}{709}
+      \field{year}{2012}
+      \field{pages}{21\bibrangedash 31}
+      \range{pages}{11}
+    \endentry
+    \entry{bib:microfluidic_protein_chromatography}{article}{}
+      \name{author}{1}{}{%
+        {{hash=ce3977d52d82409e40f7d0eefe7109bb}{%
+           family={Gomez},
+           familyi={G\bibinitperiod},
+           given={F.\bibnamedelimi A.},
+           giveni={F\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \strng{namehash}{ce3977d52d82409e40f7d0eefe7109bb}
+      \strng{fullhash}{ce3977d52d82409e40f7d0eefe7109bb}
+      \strng{bibnamehash}{ce3977d52d82409e40f7d0eefe7109bb}
+      \strng{authorbibnamehash}{ce3977d52d82409e40f7d0eefe7109bb}
+      \strng{authornamehash}{ce3977d52d82409e40f7d0eefe7109bb}
+      \strng{authorfullhash}{ce3977d52d82409e40f7d0eefe7109bb}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Methods Mol Biol}
+      \field{note}{[DOI:\href{https://dx.doi.org/10.1007/978-1-60761-913-0\_8}{10.1007/978-1-60761-913-0\_8}] [PubMed:\href{https://www.ncbi.nlm.nih.gov/pubmed/20978964}{20978964}]}
+      \field{title}{{{M}icrofluidics in protein chromatography}}
+      \field{volume}{681}
+      \field{year}{2011}
+      \field{pages}{137\bibrangedash 150}
+      \range{pages}{14}
+    \endentry
+    \entry{bib:droplet_microfluidics_review}{article}{}
+      \name{author}{2}{}{%
+        {{hash=360513560953e0481c724365a2ed04b5}{%
+           family={Zhu},
+           familyi={Z\bibinitperiod},
+           given={Pingan},
+           giveni={P\bibinitperiod}}}%
+        {{hash=a17706e92dba01e2e05b582e6de3af66}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Liqiu},
+           giveni={L\bibinitperiod}}}%
+      }
+      \strng{namehash}{58aaaae684f892e752a43f0609f1542a}
+      \strng{fullhash}{58aaaae684f892e752a43f0609f1542a}
+      \strng{bibnamehash}{58aaaae684f892e752a43f0609f1542a}
+      \strng{authorbibnamehash}{58aaaae684f892e752a43f0609f1542a}
+      \strng{authornamehash}{58aaaae684f892e752a43f0609f1542a}
+      \strng{authorfullhash}{58aaaae684f892e752a43f0609f1542a}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Precise and effective control of droplet generation is critical for applications of droplet microfluidics ranging from materials synthesis to lab-on-a-chip systems. Methods for droplet generation can be either passive or active, where the former generates droplets without external actuation, and the latter makes use of additional energy input in promoting interfacial instabilities for droplet generation. A unified physical understanding of both passive and active droplet generation is beneficial for effectively developing new techniques meeting various demands arising from applications. Our review of passive approaches focuses on the characteristics and mechanisms of breakup modes of droplet generation occurring in microfluidic cross-flow, co-flow, flow-focusing, and step emulsification configurations. The review of active approaches covers the state-of-the-art techniques employing either external forces from electrical, magnetic and centrifugal fields or methods of modifying intrinsic properties of flows or fluids such as velocity, viscosity, interfacial tension, channel wettability, and fluid density, with a focus on their implementations and actuation mechanisms. Also included in this review is the contrast among different approaches of either passive or active nature.}
+      \field{issn}{1473-0197}
+      \field{journaltitle}{Lab on a chip}
+      \field{month}{12}
+      \field{number}{1}
+      \field{title}{Passive and active droplet generation with microfluidics: a review}
+      \field{volume}{17}
+      \field{year}{2016}
+      \field{pages}{34\bibrangedash 75}
+      \range{pages}{42}
+      \verb{doi}
+      \verb 10.1039/c6lc01018k
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1039/c6lc01018k
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1039/c6lc01018k
+      \endverb
+    \endentry
+    \entry{bib:biosensor_intro}{article}{}
+      \name{author}{4}{}{%
+        {{hash=3c0d8cdb5b045a2c6dd6cbff1fe1c8a3}{%
+           family={Bhalla},
+           familyi={B\bibinitperiod},
+           given={N.},
+           giveni={N\bibinitperiod}}}%
+        {{hash=643fadf606da411b323a47ec0377c107}{%
+           family={Jolly},
+           familyi={J\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod}}}%
+        {{hash=eab5e2c0d5f1843018fca77273c67634}{%
+           family={Formisano},
+           familyi={F\bibinitperiod},
+           given={N.},
+           giveni={N\bibinitperiod}}}%
+        {{hash=28ca79c6a5b8e291bf433f152a29998c}{%
+           family={Estrela},
+           familyi={E\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{97babac0c8db40569a4f33edd2b1800a}
+      \strng{fullhash}{111fba29c916e70b1a8f18d6d9305f72}
+      \strng{bibnamehash}{97babac0c8db40569a4f33edd2b1800a}
+      \strng{authorbibnamehash}{97babac0c8db40569a4f33edd2b1800a}
+      \strng{authornamehash}{97babac0c8db40569a4f33edd2b1800a}
+      \strng{authorfullhash}{111fba29c916e70b1a8f18d6d9305f72}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Essays Biochem}
+      \field{month}{06}
+      \field{note}{[PubMed Central:\href{https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4986445}{PMC4986445}] [DOI:\href{https://dx.doi.org/10.1042/EBC20150001}{10.1042/EBC20150001}] [PubMed:\href{https://www.ncbi.nlm.nih.gov/pubmed/20151038}{20151038}]}
+      \field{number}{1}
+      \field{title}{{{I}ntroduction to biosensors}}
+      \field{volume}{60}
+      \field{year}{2016}
+      \field{pages}{1\bibrangedash 8}
+      \range{pages}{8}
+    \endentry
+    \entry{bib:marker_effect}{article}{}
+      \name{author}{7}{}{%
+        {{hash=b950c2922d99724f9f2844dd12da5e58}{%
+           family={Sun},
+           familyi={S\bibinitperiod},
+           given={Y.\bibnamedelimi S.},
+           giveni={Y\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=a4b783f6bb5d7928c426321858bb2011}{%
+           family={Landry},
+           familyi={L\bibinitperiod},
+           given={J.\bibnamedelimi P.},
+           giveni={J\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=2bce9c3706f25df14d46fa8fa48031ad}{%
+           family={Fei},
+           familyi={F\bibinitperiod},
+           given={Y.\bibnamedelimi Y.},
+           giveni={Y\bibinitperiod\bibinitdelim Y\bibinitperiod}}}%
+        {{hash=5501aeb3117a640eebe9c6d6b57de322}{%
+           family={Zhu},
+           familyi={Z\bibinitperiod},
+           given={X.\bibnamedelimi D.},
+           giveni={X\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=181676e855175ee45012ac3c6e619e39}{%
+           family={Luo},
+           familyi={L\bibinitperiod},
+           given={J.\bibnamedelimi T.},
+           giveni={J\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+        {{hash=2a657031594a6e5ed0f6027c4b682fc2}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={X.\bibnamedelimi B.},
+           giveni={X\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+        {{hash=df13111492bb05043d7ebc9e4c44e385}{%
+           family={Lam},
+           familyi={L\bibinitperiod},
+           given={K.\bibnamedelimi S.},
+           giveni={K\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \strng{namehash}{b4a2c73cf66cea3daa4532fc6d53b419}
+      \strng{fullhash}{4a55aa8081ca958162cce950ed3bf0b8}
+      \strng{bibnamehash}{b4a2c73cf66cea3daa4532fc6d53b419}
+      \strng{authorbibnamehash}{b4a2c73cf66cea3daa4532fc6d53b419}
+      \strng{authornamehash}{b4a2c73cf66cea3daa4532fc6d53b419}
+      \strng{authorfullhash}{4a55aa8081ca958162cce950ed3bf0b8}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Langmuir}
+      \field{month}{12}
+      \field{note}{[PubMed Central:\href{https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2721158}{PMC2721158}] [DOI:\href{https://dx.doi.org/10.1021/la802097z}{10.1021/la802097z}] [PubMed:\href{https://www.ncbi.nlm.nih.gov/pubmed/18566623}{18566623}]}
+      \field{number}{23}
+      \field{title}{{{E}ffect of fluorescently labeling protein probes on kinetics of protein-ligand reactions}}
+      \field{volume}{24}
+      \field{year}{2008}
+      \field{pages}{13399\bibrangedash 13405}
+      \range{pages}{7}
+    \endentry
+    \entry{bib:early_chromatograph}{article}{}
+      \name{author}{6}{}{%
+        {{hash=75d306f05b522949fa1e50a064f0dc2e}{%
+           family={Manz},
+           familyi={M\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=a158d1948c34364cc154be02045aee1f}{%
+           family={Miyahara},
+           familyi={M\bibinitperiod},
+           given={Y.},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=45eda0455fe39748ec5af2ed6f3f6462}{%
+           family={Miura},
+           familyi={M\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+        {{hash=ac9ca9f0599e092383fe27cc5f97f84a}{%
+           family={Watanabe},
+           familyi={W\bibinitperiod},
+           given={Y.},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=31558b2e454ec26ebd267dc353247813}{%
+           family={Miyagi},
+           familyi={M\bibinitperiod},
+           given={H.},
+           giveni={H\bibinitperiod}}}%
+        {{hash=12890334c80c7cbdaa3f73092f894147}{%
+           family={Sato},
+           familyi={S\bibinitperiod},
+           given={K.},
+           giveni={K\bibinitperiod}}}%
+      }
+      \strng{namehash}{77ece7b05fcd2e9defd642450cf76bbf}
+      \strng{fullhash}{b057df76c5275b416094223b288bcce3}
+      \strng{bibnamehash}{77ece7b05fcd2e9defd642450cf76bbf}
+      \strng{authorbibnamehash}{77ece7b05fcd2e9defd642450cf76bbf}
+      \strng{authornamehash}{77ece7b05fcd2e9defd642450cf76bbf}
+      \strng{authorfullhash}{b057df76c5275b416094223b288bcce3}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{A novel concept of high pressure liquid chromatography is presented, involving a silicon chip with an open-tubular column and a conductometric detector, a chip holder and a pressure pulse driven injector using a conventional liquid chromatography pump and valves. The design and optimization of the chromatograph and the chip are discussed. A 5 × 5 mm chip containing an open-tubular column of 6 μm × 2 μm × 15 cm was fabricated, which has theoretical separation efficiencies of 8000 and 25 000 plates in 1 and 5 min, respectively. The total column volume is 1.5 nanoliter and the detection cell volume 1.2 picoliter.}
+      \field{issn}{0925-4005}
+      \field{journaltitle}{Sensors and Actuators B: Chemical}
+      \field{number}{1}
+      \field{title}{Design of an open-tubular column liquid chromatograph using silicon chip technology}
+      \field{volume}{1}
+      \field{year}{1990}
+      \field{pages}{249\bibrangedash 255}
+      \range{pages}{7}
+      \verb{doi}
+      \verb https://doi.org/10.1016/0925-4005(90)80210-Q
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/092540059080210Q
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/092540059080210Q
+      \endverb
+    \endentry
+    \entry{bib:PoC_trends}{article}{}
+      \name{author}{4}{}{%
+        {{hash=1d7b62d9d2b20d755e7d6d3046b2b6af}{%
+           family={Mejía-Salazar},
+           familyi={M\bibinithyphendelim S\bibinitperiod},
+           given={Jorge\bibnamedelima Ricardo},
+           giveni={J\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=d79c0f889eb9dbadb60247827d6c88c1}{%
+           family={Rodrigues\bibnamedelima Cruz},
+           familyi={R\bibinitperiod\bibinitdelim C\bibinitperiod},
+           given={Kamilla},
+           giveni={K\bibinitperiod}}}%
+        {{hash=6f179786ad5f7ad678879203c82835c4}{%
+           family={Materón\bibnamedelima Vásques},
+           familyi={M\bibinitperiod\bibinitdelim V\bibinitperiod},
+           given={Elsa\bibnamedelima María},
+           giveni={E\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=be3b09923daef43fd3bf18983a317626}{%
+           family={Novais\bibnamedelimb de\bibnamedelimb Oliveira\bibnamedelima Jr.},
+           familyi={N\bibinitperiod\bibinitdelim d\bibinitperiod\bibinitdelim O\bibinitperiod\bibinitdelim J\bibinitperiod},
+           given={Osvaldo},
+           giveni={O\bibinitperiod}}}%
+      }
+      \strng{namehash}{ae4c189b858bfd22e99f82b61a0c790c}
+      \strng{fullhash}{4aed4fe11a5cbc60b270455ca200398a}
+      \strng{bibnamehash}{ae4c189b858bfd22e99f82b61a0c790c}
+      \strng{authorbibnamehash}{ae4c189b858bfd22e99f82b61a0c790c}
+      \strng{authornamehash}{ae4c189b858bfd22e99f82b61a0c790c}
+      \strng{authorfullhash}{4aed4fe11a5cbc60b270455ca200398a}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Point-of-care (PoC) diagnostics is promising for early detection of a number of diseases, including cancer, diabetes, and cardiovascular diseases, in addition to serving for monitoring health conditions. To be efficient and cost-effective, portable PoC devices are made with microfluidic technologies, with which laboratory analysis can be made with small-volume samples. Recent years have witnessed considerable progress in this area with &ldquo;epidermal electronics&rdquo;, including miniaturized wearable diagnosis devices. These wearable devices allow for continuous real-time transmission of biological data to the Internet for further processing and transformation into clinical knowledge. Other approaches include bluetooth and WiFi technology for data transmission from portable (non-wearable) diagnosis devices to cellphones or computers, and then to the Internet for communication with centralized healthcare structures. There are, however, considerable challenges to be faced before PoC devices become routine in the clinical practice. For instance, the implementation of this technology requires integration of detection components with other fluid regulatory elements at the microscale, where fluid-flow properties become increasingly controlled by viscous forces rather than inertial forces. Another challenge is to develop new materials for environmentally friendly, cheap, and portable microfluidic devices. In this review paper, we first revisit the progress made in the last few years and discuss trends and strategies for the fabrication of microfluidic devices. Then, we discuss the challenges in lab-on-a-chip biosensing devices, including colorimetric sensors coupled to smartphones, plasmonic sensors, and electronic tongues. The latter ones use statistical and big data analysis for proper classification. The increasing use of big data and artificial intelligence methods is then commented upon in the context of wearable and handled biosensing platforms for the Internet of things and futuristic healthcare systems.}
+      \field{issn}{1424-8220}
+      \field{journaltitle}{Sensors}
+      \field{number}{7}
+      \field{title}{Microfluidic Point-of-Care Devices: New Trends and Future Prospects for eHealth Diagnostics}
+      \field{volume}{20}
+      \field{year}{2020}
+      \verb{doi}
+      \verb 10.3390/s20071951
+      \endverb
+      \verb{urlraw}
+      \verb https://www.mdpi.com/1424-8220/20/7/1951
+      \endverb
+      \verb{url}
+      \verb https://www.mdpi.com/1424-8220/20/7/1951
+      \endverb
+    \endentry
+    \entry{bib:poc_rsa}{article}{}
+      \name{author}{2}{}{%
+        {{hash=cc0214032a56a298ed26fa7fc9d31858}{%
+           family={Meyer},
+           familyi={M\bibinitperiod},
+           given={A.\bibnamedelimi R.},
+           giveni={A\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=471946df5736c91bb9b37e9cf2e51b6f}{%
+           family={Gorin},
+           familyi={G\bibinitperiod},
+           given={M.\bibnamedelimi A.},
+           giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \strng{namehash}{efb2b0debc7966d7351bebe9ef546b22}
+      \strng{fullhash}{efb2b0debc7966d7351bebe9ef546b22}
+      \strng{bibnamehash}{efb2b0debc7966d7351bebe9ef546b22}
+      \strng{authorbibnamehash}{efb2b0debc7966d7351bebe9ef546b22}
+      \strng{authornamehash}{efb2b0debc7966d7351bebe9ef546b22}
+      \strng{authorfullhash}{efb2b0debc7966d7351bebe9ef546b22}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Nat Rev Urol}
+      \field{month}{6}
+      \field{note}{[DOI:\href{https://dx.doi.org/10.1038/s41585-019-0179-1}{10.1038/s41585-019-0179-1}] [PubMed:\href{https://www.ncbi.nlm.nih.gov/pubmed/30948842}{30948842}]}
+      \field{number}{6}
+      \field{title}{{{F}irst point-of-care {P}{S}{A} test for prostate cancer detection}}
+      \field{volume}{16}
+      \field{year}{2019}
+      \field{pages}{331\bibrangedash 332}
+      \range{pages}{2}
+    \endentry
+    \entry{bib:biomolecula_biosensors}{online}{}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labeltitlesource}{title}
+      \field{title}{LymeExpress — студенты в борьбе с клещевыми инфекциями}
+      \field{urlday}{15}
+      \field{urlmonth}{6}
+      \field{urlyear}{2022}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://biomolecula.ru/articles/lymeexpress-studenty-v-borbe-s-kleshchevymi-infektsiiami
+      \endverb
+      \verb{url}
+      \verb https://biomolecula.ru/articles/lymeexpress-studenty-v-borbe-s-kleshchevymi-infektsiiami
+      \endverb
+    \endentry
+    \entry{bib:lrspr_review}{article}{}
+      \name{author}{4}{}{%
+        {{hash=83e7fb5a8739f130dc3b811550c905b6}{%
+           family={Jing},
+           familyi={J\bibinitperiod},
+           given={Jian-Ying},
+           giveni={J\bibinithyphendelim Y\bibinitperiod}}}%
+        {{hash=2ff53b99cb226c6384ebd0abb3e330b1}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Qi},
+           giveni={Q\bibinitperiod}}}%
+        {{hash=a48b95f679ae7e7eb9f3839e869b9835}{%
+           family={Zhao},
+           familyi={Z\bibinitperiod},
+           given={Wan-Ming},
+           giveni={W\bibinithyphendelim M\bibinitperiod}}}%
+        {{hash=ffa2b556b0139b8711c0f68d43f69b2b}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Bo-Tao},
+           giveni={B\bibinithyphendelim T\bibinitperiod}}}%
+      }
+      \strng{namehash}{88ba2fe1226838737acb454e1866ccf8}
+      \strng{fullhash}{bdfcebe46bd63ed2d7f385184274c582}
+      \strng{bibnamehash}{88ba2fe1226838737acb454e1866ccf8}
+      \strng{authorbibnamehash}{88ba2fe1226838737acb454e1866ccf8}
+      \strng{authornamehash}{88ba2fe1226838737acb454e1866ccf8}
+      \strng{authorfullhash}{bdfcebe46bd63ed2d7f385184274c582}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Long-range surface plasmon resonance (LRSPR) sensor, a novel type of surface plasmon resonance (SPR) sensor, is characterized by high sensitivity, high detection accuracy, flexible design, label-free, and real-time analysis. The micron-scale penetration depth of long-range surface plasmon wave (LRSPW) in the analyte makes LRSPR sensor quite suitable for biomacromolecules detection. This paper firstly described the research progress of LRSPR and the sensing characteristics of LRSPR sensor, and then the theoretical fundamentals of LRSPR were introduced. The specific types of LRSPR sensors and applications were detailedly summarized in tabular form, especially the dielectric buffer layers (DBLs) used for the fabrication of LRSPR chips were contrasted. Furthermore, the comparison between conventional SPR (cSPR) and LRSPR was presented, and the future scope of study in LRSPR technology was discussed. LRSPR sensor has drawn more and more attentions because of its excellent sensing performance, and especially the fiber based LRSPR sensor has promising potential in the fields of biochemistry, medicine, food quality inspections, etc.}
+      \field{issn}{0143-8166}
+      \field{journaltitle}{Optics and Lasers in Engineering}
+      \field{title}{Long-range surface plasmon resonance and its sensing applications: A review}
+      \field{volume}{112}
+      \field{year}{2019}
+      \field{pages}{103\bibrangedash 118}
+      \range{pages}{16}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.optlaseng.2018.09.013
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S0143816618306365
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S0143816618306365
+      \endverb
+      \keyw{Long-range surface plasmon resonance,Dielectric buffer layer,Optical sensors,Optical fiber sensor,Application,Review}
+    \endentry
+    \entry{bib:spr_simultaneous}{article}{}
+      \name{author}{6}{}{%
+        {{hash=523d033beab736b4cc14f1c1ff60d085}{%
+           family={Taylor},
+           familyi={T\bibinitperiod},
+           given={Allen\bibnamedelima D.},
+           giveni={A\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=4aecdf60c53ff161a80d25cedda8c565}{%
+           family={Ladd},
+           familyi={L\bibinitperiod},
+           given={Jon},
+           giveni={J\bibinitperiod}}}%
+        {{hash=188afc7227af6d6b3f2e17118316ec1f}{%
+           family={Yu},
+           familyi={Y\bibinitperiod},
+           given={Qiuming},
+           giveni={Q\bibinitperiod}}}%
+        {{hash=42886d8a7b645a4428e31fb783d6592d}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Shengfu},
+           giveni={S\bibinitperiod}}}%
+        {{hash=aa81f30ddedcc3a76ff2fb8d53f362ce}{%
+           family={Homola},
+           familyi={H\bibinitperiod},
+           given={Jiří},
+           giveni={J\bibinitperiod}}}%
+        {{hash=7eba7e50631a62569bf7ada840d410ef}{%
+           family={Jiang},
+           familyi={J\bibinitperiod},
+           given={Shaoyi},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{fa3e039f8282fb9b3e1bde6bf41b8a05}
+      \strng{fullhash}{813bc9558b573cfd07ff86bb1bbeb8e4}
+      \strng{bibnamehash}{fa3e039f8282fb9b3e1bde6bf41b8a05}
+      \strng{authorbibnamehash}{fa3e039f8282fb9b3e1bde6bf41b8a05}
+      \strng{authornamehash}{fa3e039f8282fb9b3e1bde6bf41b8a05}
+      \strng{authorfullhash}{813bc9558b573cfd07ff86bb1bbeb8e4}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{We report the quantitative and simultaneous detection of four species of bacteria, Escherichia coli O157:H7, Salmonella choleraesuis serotype typhimurium, Listeria monocytogenes, and Campylobacter jejuni, using an eight-channel surface plasmon resonance (SPR) sensor based on wavelength division multiplexing. Detection curves showing SPR response versus analyte concentration were established for each species of bacteria in buffer at pH 7.4, apple juice at native pH 3.7, and apple juice at an adjusted pH of 7.4, as well as for a mixture containing all four species of bacteria in buffer. Control experiments were performed to show the non-fouling characteristics of the sensor surface as well as the specificity of the amplification antibodies used in this study. The limit of detection (LOD) for each of the four species of bacteria in the tested matrices ranges from 3.4×103 to 1.2×105cfu/ml. Detection curves in buffer of an individual species of bacteria in a mixture of all four species of bacteria correlated well with detection curves of the individual species of bacteria alone. SPR responses were higher for bacteria in apple juice at pH 7.4 than in apple juice at pH 3.7. This difference in sensor response could be partly attributed to the pH dependence of antibody–antigen binding.}
+      \field{issn}{0956-5663}
+      \field{journaltitle}{Biosensors and Bioelectronics}
+      \field{number}{5}
+      \field{title}{Quantitative and simultaneous detection of four foodborne bacterial pathogens with a multi-channel SPR sensor}
+      \field{volume}{22}
+      \field{year}{2006}
+      \field{pages}{752\bibrangedash 758}
+      \range{pages}{7}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.bios.2006.03.012
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S095656630600090X
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S095656630600090X
+      \endverb
+      \keyw{Foodborne pathogens,typhimurium,,,O157:H7,Surface plasmon resonance (SPR)}
+    \endentry
+    \entry{bib:spr_biodetection}{inbook}{}
+      \name{author}{3}{}{%
+        {{hash=c8796fae429fd3bbb4310ae6219d5767}{%
+           family={Piliarik},
+           familyi={P\bibinitperiod},
+           given={Marek},
+           giveni={M\bibinitperiod}}}%
+        {{hash=f003c510eb8f61d9aa9ab126e81f0c36}{%
+           family={Vaisocherová},
+           familyi={V\bibinitperiod},
+           given={Hana},
+           giveni={H\bibinitperiod}}}%
+        {{hash=aa81f30ddedcc3a76ff2fb8d53f362ce}{%
+           family={Homola},
+           familyi={H\bibinitperiod},
+           given={Jiří},
+           giveni={J\bibinitperiod}}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=16ab77c06fd8880935c42e5dff243128}{%
+           family={Rasooly},
+           familyi={R\bibinitperiod},
+           given={Avraham},
+           giveni={A\bibinitperiod}}}%
+        {{hash=dcc6f73451cdf3c37f8734f0e30d6d19}{%
+           family={Herold},
+           familyi={H\bibinitperiod},
+           given={Keith\bibnamedelima E.},
+           giveni={K\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Totowa, NJ}%
+      }
+      \list{publisher}{1}{%
+        {Humana Press}%
+      }
+      \strng{namehash}{1b40d5dd5d23cb5bf58467d70deda33f}
+      \strng{fullhash}{1b40d5dd5d23cb5bf58467d70deda33f}
+      \strng{bibnamehash}{1b40d5dd5d23cb5bf58467d70deda33f}
+      \strng{authorbibnamehash}{1b40d5dd5d23cb5bf58467d70deda33f}
+      \strng{authornamehash}{1b40d5dd5d23cb5bf58467d70deda33f}
+      \strng{authorfullhash}{1b40d5dd5d23cb5bf58467d70deda33f}
+      \strng{editorbibnamehash}{e2d11b041246c39ae752c9edcb3d13fe}
+      \strng{editornamehash}{e2d11b041246c39ae752c9edcb3d13fe}
+      \strng{editorfullhash}{e2d11b041246c39ae752c9edcb3d13fe}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Surface plasmon resonance (SPR) biosensors belong to label-free optical biosensing technologies. The SPR method is based on optical measurement of refractive index changes associated with the binding of analyte molecules in a sample to biorecognize molecules immobilized on the SPR sensor. Since late 1990's, SPR biosensors have become the main tool for the study of biomolecular interactions both in life science and pharmaceutical research. In addition, they have been increasingly applied in the detection of chemical and biological substances in important areas such as medical diagnostics, environmental monitoring, food safety and security. This chapter reviews the main principles of SPR biosensor technology and discusses applications of this technology for rapid, sensitive and specific detection of chemical and biological analytes.}
+      \field{isbn}{978-1-60327-567-5}
+      \field{title}{Biosensors and Biodetection}
+      \field{year}{2009}
+      \field{pages}{65\bibrangedash 88}
+      \range{pages}{24}
+      \verb{doi}
+      \verb 10.1007/978-1-60327-567-5_5
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1007/978-1-60327-567-5_5
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1007/978-1-60327-567-5_5
+      \endverb
+    \endentry
+    \entry{bib:odpc_visualization}{article}{}
+      \name{author}{6}{}{%
+        {{hash=f09cfbeedb74de0632168e838d6b5963}{%
+           family={Soboleva},
+           familyi={S\bibinitperiod},
+           given={Irina},
+           giveni={I\bibinitperiod}}}%
+        {{hash=7f62ad4d1e8f7aaf1821a2ea6514aaa1}{%
+           family={Descrovi},
+           familyi={D\bibinitperiod},
+           given={Emiliano},
+           giveni={E\bibinitperiod}}}%
+        {{hash=87056f05f9150697bbecaaacb0b69d4d}{%
+           family={Dominici},
+           familyi={D\bibinitperiod},
+           given={Lorenzo},
+           giveni={L\bibinitperiod}}}%
+        {{hash=029feaf972d0a9f8835e7c55dfc37957}{%
+           family={Michelotti},
+           familyi={M\bibinitperiod},
+           given={Francesco},
+           giveni={F\bibinitperiod}}}%
+        {{hash=e340ddc4ebf6ad6a1bc5b965c9bc5522}{%
+           family={Giorgis},
+           familyi={G\bibinitperiod},
+           given={Fabrizio},
+           giveni={F\bibinitperiod}}}%
+        {{hash=f26497d3756082cecc1bec936afd8ff6}{%
+           family={Fedyanin},
+           familyi={F\bibinitperiod},
+           given={Andrey},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{cca83f01a21ca62eb36951cc04288caf}
+      \strng{fullhash}{48dcf839790e133b848118c63e49bb9e}
+      \strng{bibnamehash}{cca83f01a21ca62eb36951cc04288caf}
+      \strng{authorbibnamehash}{cca83f01a21ca62eb36951cc04288caf}
+      \strng{authornamehash}{cca83f01a21ca62eb36951cc04288caf}
+      \strng{authorfullhash}{48dcf839790e133b848118c63e49bb9e}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Proceedings of SPIE - The International Society for Optical Engineering}
+      \field{month}{05}
+      \field{title}{Visualization of surface electromagnetic waves in one-dimensional photonic crystal by fluorescence dye}
+      \field{volume}{7356}
+      \field{year}{2009}
+      \verb{doi}
+      \verb 10.1117/12.820711
+      \endverb
+    \endentry
+    \entry{bib:klimov_nanoplasmonics}{book}{}
+      \name{author}{1}{}{%
+        {{hash=51f46b540e967f475b1d6c1f89fd4b96}{%
+           family={В.},
+           familyi={В\bibinitperiod},
+           given={Климов\bibnamedelima В.},
+           giveni={К\bibinitperiod\bibinitdelim В\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {М. ФИЗМАТЛИТ}%
+      }
+      \strng{namehash}{51f46b540e967f475b1d6c1f89fd4b96}
+      \strng{fullhash}{51f46b540e967f475b1d6c1f89fd4b96}
+      \strng{bibnamehash}{51f46b540e967f475b1d6c1f89fd4b96}
+      \strng{authorbibnamehash}{51f46b540e967f475b1d6c1f89fd4b96}
+      \strng{authornamehash}{51f46b540e967f475b1d6c1f89fd4b96}
+      \strng{authorfullhash}{51f46b540e967f475b1d6c1f89fd4b96}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{ISBN 978-5-9221-1030-3}
+      \field{title}{Наноплазмоника}
+      \field{year}{2009}
+    \endentry
+    \entry{bib:qcm_odor}{article}{}
+      \name{author}{2}{}{%
+        {{hash=223e79b6c8532c31d17641ccaef257a7}{%
+           family={Yuwono},
+           familyi={Y\bibinitperiod},
+           given={Arief},
+           giveni={A\bibinitperiod}}}%
+        {{hash=53919b5fc274ea796bd82201a5e5d5b0}{%
+           family={Schulze\bibnamedelima Lammers},
+           familyi={S\bibinitperiod\bibinitdelim L\bibinitperiod},
+           given={Peter},
+           giveni={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{e006f13c9b9fb26a84b886e236293f0e}
+      \strng{fullhash}{e006f13c9b9fb26a84b886e236293f0e}
+      \strng{bibnamehash}{e006f13c9b9fb26a84b886e236293f0e}
+      \strng{authorbibnamehash}{e006f13c9b9fb26a84b886e236293f0e}
+      \strng{authornamehash}{e006f13c9b9fb26a84b886e236293f0e}
+      \strng{authorfullhash}{e006f13c9b9fb26a84b886e236293f0e}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{11}
+      \field{title}{Odor Pollution in the Environment and the Detection Instrumentation}
+      \field{volume}{6}
+      \field{year}{2003}
+    \endentry
+    \entry{bib:fm_multiplex}{article}{}
+      \name{author}{4}{}{%
+        {{hash=a310bc8178a7d4e0b4bb9587264016d4}{%
+           family={Jun},
+           familyi={J\bibinitperiod},
+           given={B.\bibnamedelimi H.},
+           giveni={B\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=292bf47e740cde30b2a7756b6b159535}{%
+           family={Kang},
+           familyi={K\bibinitperiod},
+           given={H.},
+           giveni={H\bibinitperiod}}}%
+        {{hash=fe77c05b3a535e2b2a6a49e9b466647d}{%
+           family={Lee},
+           familyi={L\bibinitperiod},
+           given={Y.\bibnamedelimi S.},
+           giveni={Y\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=075c67f8ee02961e8094fb59acc3989a}{%
+           family={Jeong},
+           familyi={J\bibinitperiod},
+           given={D.\bibnamedelimi H.},
+           giveni={D\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+      }
+      \strng{namehash}{c75848125758731970fcee6f9f951b2b}
+      \strng{fullhash}{190d648bbc7f0a3aad8dd772164801d6}
+      \strng{bibnamehash}{c75848125758731970fcee6f9f951b2b}
+      \strng{authorbibnamehash}{c75848125758731970fcee6f9f951b2b}
+      \strng{authornamehash}{c75848125758731970fcee6f9f951b2b}
+      \strng{authorfullhash}{190d648bbc7f0a3aad8dd772164801d6}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Molecules}
+      \field{month}{3}
+      \field{note}{[PubMed Central:\href{https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6268487}{PMC6268487}] [DOI:\href{https://dx.doi.org/10.3390/molecules17032474}{10.3390/molecules17032474}] [PubMed:\href{https://www.ncbi.nlm.nih.gov/pubmed/15047203}{15047203}]}
+      \field{number}{3}
+      \field{title}{{{F}luorescence-based multiplex protein detection using optically encoded microbeads}}
+      \field{volume}{17}
+      \field{year}{2012}
+      \field{pages}{2474\bibrangedash 2490}
+      \range{pages}{17}
+    \endentry
+    \entry{bib:ll}{book}{}
+      \name{author}{1}{}{%
+        {{hash=ae366d6c2a754e18313027594d94c04e}{%
+           family={Ландау\bibnamedelimb Л.\bibnamedelimi Д.},
+           familyi={Л\bibinitperiod\bibinitdelim Л\bibinitperiod\bibinitdelim Д\bibinitperiod},
+           given={Лифшиц\bibnamedelimb Е.\bibnamedelimi М.},
+           giveni={Л\bibinitperiod\bibinitdelim Е\bibinitperiod\bibinitdelim М\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {М. ФИЗМАТЛИТ}%
+      }
+      \strng{namehash}{ae366d6c2a754e18313027594d94c04e}
+      \strng{fullhash}{ae366d6c2a754e18313027594d94c04e}
+      \strng{bibnamehash}{ae366d6c2a754e18313027594d94c04e}
+      \strng{authorbibnamehash}{ae366d6c2a754e18313027594d94c04e}
+      \strng{authornamehash}{ae366d6c2a754e18313027594d94c04e}
+      \strng{authorfullhash}{ae366d6c2a754e18313027594d94c04e}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{ISBN 5-9221-0121-8}
+      \field{title}{Теоретическая физика: Учеб. пособ.: Для вузов. В 10 т. Т. VI. Гидродинамика. — 5-е изд., стереот.}
+      \field{year}{2001}
+    \endentry
+    \entry{bib:adsorption_reaction_principles}{inproceedings}{}
+      \name{author}{1}{}{%
+        {{hash=f2ff7ecc9adb80c461c4c242aa211868}{%
+           family={Masel},
+           familyi={M\bibinitperiod},
+           given={Richard\bibnamedelima I.},
+           giveni={R\bibinitperiod\bibinitdelim I\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Wiley Interscience}%
+      }
+      \strng{namehash}{f2ff7ecc9adb80c461c4c242aa211868}
+      \strng{fullhash}{f2ff7ecc9adb80c461c4c242aa211868}
+      \strng{bibnamehash}{f2ff7ecc9adb80c461c4c242aa211868}
+      \strng{authorbibnamehash}{f2ff7ecc9adb80c461c4c242aa211868}
+      \strng{authornamehash}{f2ff7ecc9adb80c461c4c242aa211868}
+      \strng{authorfullhash}{f2ff7ecc9adb80c461c4c242aa211868}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{0-471-30392-5}
+      \field{title}{Principles of Adsorption and Reaction on Solid Surfaces}
+      \field{year}{1996}
+    \endentry
+    \entry{bib:freundlich_kinetics}{article}{}
+      \name{author}{5}{}{%
+        {{hash=f97e274ca2d61b2c7f2de35369f6fa7e}{%
+           family={Patiha},
+           familyi={P\bibinitperiod}}}%
+        {{hash=5d817123cc1252d48920d5112d825873}{%
+           family={Firdaus},
+           familyi={F\bibinitperiod},
+           given={M},
+           giveni={M\bibinitperiod}}}%
+        {{hash=1c31d826c4a994ed3085d23a2e30b549}{%
+           family={Wahyuningsih},
+           familyi={W\bibinitperiod},
+           given={S},
+           giveni={S\bibinitperiod}}}%
+        {{hash=59c6d29beb0b916fa10a382e834cbdd0}{%
+           family={Nugrahaningtyas},
+           familyi={N\bibinitperiod},
+           given={K\bibnamedelima D},
+           giveni={K\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=c9aadc3799975cbfcdf2ac701bb5ad51}{%
+           family={Hidayat},
+           familyi={H\bibinitperiod},
+           given={Y},
+           giveni={Y\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {{IOP} Publishing}%
+      }
+      \strng{namehash}{d805dd9639ea4b5ca8a7bc9e6666d165}
+      \strng{fullhash}{7dcf57076d3e906347c77a42a1b3eabe}
+      \strng{bibnamehash}{d805dd9639ea4b5ca8a7bc9e6666d165}
+      \strng{authorbibnamehash}{d805dd9639ea4b5ca8a7bc9e6666d165}
+      \strng{authornamehash}{d805dd9639ea4b5ca8a7bc9e6666d165}
+      \strng{authorfullhash}{7dcf57076d3e906347c77a42a1b3eabe}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The Freundlich adsorption isotherm is mostly presented as an empirical equation and the (fractal) Langmuir adsorption isotherm is derived from kinetics. However, their constants are determined by thermodynamic approach. As yet, both are used as an independent tool for determining the type of adsorption, just physical or chemical adsorption. This study aims to introduce an alternative way of driving Freundlich adsorption isotherm from kinetics, to elaborate its relation with the (fractal) Langmuir adsorption isotherm, and to determine their constants simultaneously by kinetics approach. An alternative way of determining the constants in both isotherm equations by kinetics approach was introduced. The results were then compared with that obtained by the conventional method. The study is theoretical but the validity of determination technique is based on the statistical tests on data adapted from literature. The Freundlich adsorption isotherm is introduced; the isotherm is the (fractal) Langmuir adsorption isotherm at relatively low concentration. It is irrelevant to use both adsorption isotherm separately. The new method is more reliable and its represent the reaction.}
+      \field{journaltitle}{{IOP} Conference Series: Materials Science and Engineering}
+      \field{month}{3}
+      \field{title}{Derivation and constants determination of the Freundlich and (fractal) Langmuir adsorption isotherms from kinetics}
+      \field{volume}{333}
+      \field{year}{2018}
+      \field{pages}{012010}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1088/1757-899x/333/1/012010
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1088/1757-899x/333/1/012010
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1088/1757-899x/333/1/012010
+      \endverb
+    \endentry
+    \entry{bib:FULLTEXT_inverse_example}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=7435568fa47c711adc7070063f819cfd}{%
+           family={Boström},
+           familyi={B\bibinitperiod},
+           given={Fredrik},
+           giveni={F\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Uppsala University, Biology Education Centre}%
+      }
+      \strng{namehash}{7435568fa47c711adc7070063f819cfd}
+      \strng{fullhash}{7435568fa47c711adc7070063f819cfd}
+      \strng{bibnamehash}{7435568fa47c711adc7070063f819cfd}
+      \strng{authorbibnamehash}{7435568fa47c711adc7070063f819cfd}
+      \strng{authornamehash}{7435568fa47c711adc7070063f819cfd}
+      \strng{authorfullhash}{7435568fa47c711adc7070063f819cfd}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Characterizing nanoparticles to be able to understand how they functions in the body is important for development of drugs. Furthermore with increasing number of nanoparticle product the nanotoxicity of nanoparticles is important to understand. This report is a part of the EU-project Nanoclassifier which purpose is to “develop a cost effective, high throughput screening platform for characterization of the bionanointerface and its cell-binding partners”. Single-cycle kinetic was used to determine the number of binding epitopes on polystyrene nanoparticle with transferrin corona. The number of available epitopes describes how active the Nanoparticle will be in the body. For this purpose Single-cycle kinetic methodology was successfully used on nanoparticles. Single-cycle kinetic methodology has great potential to become the standard method for high throughput nanoparticle epitope characterization.}
+      \field{number}{16 024}
+      \field{series}{UPTEC X}
+      \field{title}{Single-cycle kinetics for QCM biosensors for high throughput nanoparticle characterization application}
+      \field{year}{2016}
+      \field{pages}{56}
+      \range{pages}{1}
+      \keyw{Single-cycle kinetics,kinetic titration,kinetics,image analysis,cell counting,nanoparticles,protein corona,method development,Multi-cycle kinetics,QCM biosensor}
+    \endentry
+    \entry{bib:TCM}{article}{}
+      \name{author}{5}{}{%
+        {{hash=4ecce12129bbe441db133c482a37fbd2}{%
+           family={Myszka},
+           familyi={M\bibinitperiod},
+           given={David\bibnamedelima G.},
+           giveni={D\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+        {{hash=db1131629e1713a3a52aa8be05262a69}{%
+           family={He},
+           familyi={H\bibinitperiod},
+           given={Xiaoyi},
+           giveni={X\bibinitperiod}}}%
+        {{hash=93458e9a278ecedb63dc7231e12b5446}{%
+           family={Dembo},
+           familyi={D\bibinitperiod},
+           given={Micah},
+           giveni={M\bibinitperiod}}}%
+        {{hash=05f5a5fe2abbd540b58063ca67183e95}{%
+           family={Morton},
+           familyi={M\bibinitperiod},
+           given={Thomas\bibnamedelima A.},
+           giveni={T\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=55ae95dad25496a34d9306997030113e}{%
+           family={Goldstein},
+           familyi={G\bibinitperiod},
+           given={Byron},
+           giveni={B\bibinitperiod}}}%
+      }
+      \strng{namehash}{4d505d4448b788182ccaf3bcfc54a2df}
+      \strng{fullhash}{b0e82a75eae2199246b0e97fedf7f2ae}
+      \strng{bibnamehash}{4d505d4448b788182ccaf3bcfc54a2df}
+      \strng{authorbibnamehash}{4d505d4448b788182ccaf3bcfc54a2df}
+      \strng{authornamehash}{4d505d4448b788182ccaf3bcfc54a2df}
+      \strng{authorfullhash}{b0e82a75eae2199246b0e97fedf7f2ae}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Surface-based binding assays are often influenced by the transport of analyte to the sensor surface. Using simulated data sets, we test a simple two-compartment model to see if its description of transport and binding is sufficient to accurately analyze BIACORE data. First we present a computer model that can generate realistic BIACORE data. This model calculates the laminar flow of analyte within the flow cell, its diffusion both perpendicular and parallel to the sensor surface, and the reversible chemical reaction between analyte and immobilized reactant. We use this computer model to generate binding data under a variety of conditions. An analysis of these data sets with the two-compartment model demonstrates that good estimates of the intrinsic reaction rate constants are recovered even when mass transport influences the binding reaction. We also discuss the conditions under which the two-compartment model can be used to determine the diffusion coefficient of the analyte. Our results illustrate that this model can significantly extend the range of association rate constants that can be accurately determined from BIACORE.}
+      \field{issn}{0006-3495}
+      \field{journaltitle}{Biophysical Journal}
+      \field{number}{2}
+      \field{title}{Extending the Range of Rate Constants Available from BIACORE: Interpreting Mass Transport-Influenced Binding Data}
+      \field{volume}{75}
+      \field{year}{1998}
+      \field{pages}{583\bibrangedash 594}
+      \range{pages}{12}
+      \verb{doi}
+      \verb https://doi.org/10.1016/S0006-3495(98)77549-6
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S0006349598775496
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S0006349598775496
+      \endverb
+    \endentry
+    \entry{bib:phys_chem_hydro_layers}{inbook}{}
+      \name{author}{1}{}{%
+        {{hash=e001084985eec35c69c0f5320b1f0e78}{%
+           family={Probstein},
+           familyi={P\bibinitperiod},
+           given={Ronald\bibnamedelima F.},
+           giveni={R\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {John Wiley \& Sons, Ltd}%
+      }
+      \strng{namehash}{e001084985eec35c69c0f5320b1f0e78}
+      \strng{fullhash}{e001084985eec35c69c0f5320b1f0e78}
+      \strng{bibnamehash}{e001084985eec35c69c0f5320b1f0e78}
+      \strng{authorbibnamehash}{e001084985eec35c69c0f5320b1f0e78}
+      \strng{authornamehash}{e001084985eec35c69c0f5320b1f0e78}
+      \strng{authorfullhash}{e001084985eec35c69c0f5320b1f0e78}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Summary This chapter includes the following topics: Diffusion and Reaction Kinetics Convective Diffusion Layer Characteristics Channel Flow with Soluble or Rapidly Reacting Walls Reverse Osmosis and Mixed Heterogeneous Reactions Flow Past a Reacting Flat Plate Taylor Dispersion in a Capillary Tube Gel Chromatography and Capillary Models of Porous Media}
+      \field{chapter}{4}
+      \field{isbn}{9780471725138}
+      \field{title}{Physicochemical Hydrodynamics}
+      \field{year}{1994}
+      \field{pages}{53\bibrangedash 107}
+      \range{pages}{55}
+      \verb{doi}
+      \verb https://doi.org/10.1002/0471725137.ch4
+      \endverb
+      \verb{eprint}
+      \verb https://onlinelibrary.wiley.com/doi/pdf/10.1002/0471725137.ch4
+      \endverb
+      \verb{urlraw}
+      \verb https://onlinelibrary.wiley.com/doi/abs/10.1002/0471725137.ch4
+      \endverb
+      \verb{url}
+      \verb https://onlinelibrary.wiley.com/doi/abs/10.1002/0471725137.ch4
+      \endverb
+      \keyw{transport of mass,convective diffusion,channel flow,reverse osmosis,Taylor dispersion}
+    \endentry
+    \entry{bib:comsol_fem}{online}{}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labeltitlesource}{title}
+      \field{title}{The Finite Element Method (FEM)}
+      \field{urlday}{15}
+      \field{urlmonth}{6}
+      \field{urlyear}{2022}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.comsol.com/multiphysics/finite-element-method
+      \endverb
+      \verb{url}
+      \verb https://www.comsol.com/multiphysics/finite-element-method
+      \endverb
+    \endentry
+    \entry{bib:hairer_stiff}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{hash=83e9309b497414bd7c7550110d37b3d7}{%
+           family={Hairer},
+           familyi={H\bibinitperiod},
+           given={Ernst},
+           giveni={E\bibinitperiod}}}%
+        {{hash=6715424cc951a02c09b3082a661642ab}{%
+           family={Wanner},
+           familyi={W\bibinitperiod},
+           given={Gerhard},
+           giveni={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{1d34fc180148e9785fc9665e3a2ebfe1}
+      \strng{fullhash}{1d34fc180148e9785fc9665e3a2ebfe1}
+      \strng{bibnamehash}{1d34fc180148e9785fc9665e3a2ebfe1}
+      \strng{authorbibnamehash}{1d34fc180148e9785fc9665e3a2ebfe1}
+      \strng{authornamehash}{1d34fc180148e9785fc9665e3a2ebfe1}
+      \strng{authorfullhash}{1d34fc180148e9785fc9665e3a2ebfe1}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Solving Ordinary Differential Equations {I}{I}: Stiff and Differential-Algebraic Problems}
+      \field{year}{2002}
+    \endentry
+    \entry{bib:inverse_pde}{book}{}
+      \name{author}{1}{}{%
+        {{hash=17c96ae8c6e8e55b1242f080a924149a}{%
+           family={Isakov},
+           familyi={I\bibinitperiod},
+           given={Victor},
+           giveni={V\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer Cham}%
+      }
+      \strng{namehash}{17c96ae8c6e8e55b1242f080a924149a}
+      \strng{fullhash}{17c96ae8c6e8e55b1242f080a924149a}
+      \strng{bibnamehash}{17c96ae8c6e8e55b1242f080a924149a}
+      \strng{authorbibnamehash}{17c96ae8c6e8e55b1242f080a924149a}
+      \strng{authornamehash}{17c96ae8c6e8e55b1242f080a924149a}
+      \strng{authorfullhash}{17c96ae8c6e8e55b1242f080a924149a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{3}
+      \field{isbn}{978-3-319-51657-8}
+      \field{note}{[DOI:\href{https://doi.org/10.1007/978-3-319-51658-5}{10.1007/978-3-319-51658-5}]}
+      \field{series}{Applied Mathematical Sciences}
+      \field{title}{Inverse Problems for Partial Differential Equations}
+      \field{year}{2017}
+      \keyw{Inverse Problems,Ill-posed Problems,Carleman Estimates,Uniqueness and Stability of the Continuation,Remote Sensing,Tomography,partial differential equations,remote sensing/photogrammetry}
+    \endentry
+    \entry{bib:biotin_streptavidin_kinetics}{article}{}
+      \name{author}{4}{}{%
+        {{hash=78ef3c7b5a8e756341fdf76cc24a96bd}{%
+           family={Srisa-Art},
+           familyi={S\bibinithyphendelim A\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=6ff51fd4e20a7166e54921bd352ed73e}{%
+           family={Dyson},
+           familyi={D\bibinitperiod},
+           given={E.\bibnamedelimi C.},
+           giveni={E\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=4eb3d45776f1c19a4789d02f5d7afa67}{%
+           family={deMello},
+           familyi={d\bibinitperiod},
+           given={A.\bibnamedelimi J.},
+           giveni={A\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=c5925ac7aa98ba90b954cf5018021a2c}{%
+           family={Edel},
+           familyi={E\bibinitperiod},
+           given={J.\bibnamedelimi B.},
+           giveni={J\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+      }
+      \strng{namehash}{6299207486dfacbd79d224244026e582}
+      \strng{fullhash}{00cfa3663e863ebbec80938f33707abd}
+      \strng{bibnamehash}{6299207486dfacbd79d224244026e582}
+      \strng{authorbibnamehash}{6299207486dfacbd79d224244026e582}
+      \strng{authornamehash}{6299207486dfacbd79d224244026e582}
+      \strng{authorfullhash}{00cfa3663e863ebbec80938f33707abd}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Anal Chem}
+      \field{month}{9}
+      \field{note}{[DOI:\href{https://dx.doi.org/10.1021/ac801199k}{10.1021/ac801199k}] [PubMed:\href{https://www.ncbi.nlm.nih.gov/pubmed/18712935}{18712935}]}
+      \field{number}{18}
+      \field{title}{{{M}onitoring of real-time streptavidin-biotin binding kinetics using droplet microfluidics}}
+      \field{volume}{80}
+      \field{year}{2008}
+      \field{pages}{7063\bibrangedash 7067}
+      \range{pages}{5}
+    \endentry
+    \entry{bib:protein_a_b_ig_g}{article}{}
+      \name{author}{3}{}{%
+        {{hash=253d8666b09b236408c2d8c0abfc3fcd}{%
+           family={Saha},
+           familyi={S\bibinitperiod},
+           given={K.},
+           giveni={K\bibinitperiod}}}%
+        {{hash=ff35fb9c714335e56c2e317f70048090}{%
+           family={Bender},
+           familyi={B\bibinitperiod},
+           given={F.},
+           giveni={F\bibinitperiod}}}%
+        {{hash=5f651312f6ac1c091972703aa1889873}{%
+           family={Gizeli},
+           familyi={G\bibinitperiod},
+           given={E.},
+           giveni={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{f2d6f024a73930cc1d2df45f5a60db37}
+      \strng{fullhash}{f2d6f024a73930cc1d2df45f5a60db37}
+      \strng{bibnamehash}{f2d6f024a73930cc1d2df45f5a60db37}
+      \strng{authorbibnamehash}{f2d6f024a73930cc1d2df45f5a60db37}
+      \strng{authornamehash}{f2d6f024a73930cc1d2df45f5a60db37}
+      \strng{authorfullhash}{f2d6f024a73930cc1d2df45f5a60db37}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Anal Chem}
+      \field{month}{2}
+      \field{note}{[DOI:\href{https://dx.doi.org/10.1021/ac0204911}{10.1021/ac0204911}] [PubMed:\href{https://www.ncbi.nlm.nih.gov/pubmed/12622374}{12622374}]}
+      \field{number}{4}
+      \field{title}{{{C}omparative study of {I}g{G} binding to proteins {G} and {A}: nonequilibrium kinetic and binding constant determination with the acoustic waveguide device}}
+      \field{volume}{75}
+      \field{year}{2003}
+      \field{pages}{835\bibrangedash 842}
+      \range{pages}{8}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
 
-\bibitem{bib:white_mf_as}
-В.~Е. Курочкин, А.~А. Евстрапов, В.~Л. Суханов,
-  Б.~Г. Беленький, and Н.~И. Комяк.
-\newblock Микрюфлюидные аналитические системы.
-\newblock {\em НАУЧНОЕ ПРИБОРОСТРОЕНИЕ}, 10(3), 2000.
-
-\bibitem{bib:poc_infectious}
-L.~Hocking, J.~George, E.~K. Broberg, M.~J. Struelens, K.~C. Leitmeyer,
-  A.~Deshpande, S.~Parkinson, J.~Francombe, K.~I. Morley, and
-  H.~de~Carvalho~Gomes.
-\newblock A scoping review of point-of-care testing devices for infectious
-  disease surveillance, prevention and control.
-\newblock {\em European Centre for Disease Prevention and Control}, Apr 2022.
-\newblock [DOI:10.2900/443139] [ISBN:978-92-9498-569-9].
-
-\bibitem{bib:capillary_protein_electrophoresis}
-Z.~Zhu, J.~J. Lu, and S.~Liu.
-\newblock {{P}rotein separation by capillary gel electrophoresis: a review}.
-\newblock {\em Anal Chim Acta}, 709:21--31, Jan 2012.
-\newblock [PubMed
-  Central:\href{https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3227876}{PMC3227876}]
-  [DOI:\href{https://dx.doi.org/10.1016/j.aca.2011.10.022}{10.1016/j.aca.2011.10.022}]
-  [PubMed:\href{https://www.ncbi.nlm.nih.gov/pubmed/11795513}{11795513}].
-
-\bibitem{bib:microfluidic_protein_chromatography}
-F.~A. Gomez.
-\newblock {{M}icrofluidics in protein chromatography}.
-\newblock {\em Methods Mol Biol}, 681:137--150, 2011.
-\newblock
-  [DOI:\href{https://dx.doi.org/10.1007/978-1-60761-913-0\_8}{10.1007/978-1-60761-913-0\_8}]
-  [PubMed:\href{https://www.ncbi.nlm.nih.gov/pubmed/20978964}{20978964}].
-
-\bibitem{bib:droplet_microfluidics_review}
-Pingan Zhu and Liqiu Wang.
-\newblock Passive and active droplet generation with microfluidics: a review.
-\newblock {\em Lab on a chip}, 17(1):34—75, December 2016.
-
-\bibitem{bib:biosensor_intro}
-N.~Bhalla, P.~Jolly, N.~Formisano, and P.~Estrela.
-\newblock {{I}ntroduction to biosensors}.
-\newblock {\em Essays Biochem}, 60(1):1--8, 06 2016.
-\newblock [PubMed
-  Central:\href{https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4986445}{PMC4986445}]
-  [DOI:\href{https://dx.doi.org/10.1042/EBC20150001}{10.1042/EBC20150001}]
-  [PubMed:\href{https://www.ncbi.nlm.nih.gov/pubmed/20151038}{20151038}].
-
-\bibitem{bib:marker_effect}
-Y.~S. Sun, J.~P. Landry, Y.~Y. Fei, X.~D. Zhu, J.~T. Luo, X.~B. Wang, and K.~S.
-  Lam.
-\newblock {{E}ffect of fluorescently labeling protein probes on kinetics of
-  protein-ligand reactions}.
-\newblock {\em Langmuir}, 24(23):13399--13405, Dec 2008.
-\newblock [PubMed
-  Central:\href{https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2721158}{PMC2721158}]
-  [DOI:\href{https://dx.doi.org/10.1021/la802097z}{10.1021/la802097z}]
-  [PubMed:\href{https://www.ncbi.nlm.nih.gov/pubmed/18566623}{18566623}].
-
-\bibitem{bib:early_chromatograph}
-A.~Manz, Y.~Miyahara, J.~Miura, Y.~Watanabe, H.~Miyagi, and K.~Sato.
-\newblock Design of an open-tubular column liquid chromatograph using silicon
-  chip technology.
-\newblock {\em Sensors and Actuators B: Chemical}, 1(1):249--255, 1990.
-
-\bibitem{bib:PoC_trends}
-Jorge~Ricardo Mejía-Salazar, Kamilla Rodrigues~Cruz, Elsa~María
-  Materón~Vásques, and Osvaldo Novais~de Oliveira~Jr.
-\newblock Microfluidic point-of-care devices: New trends and future prospects
-  for ehealth diagnostics.
-\newblock {\em Sensors}, 20(7), 2020.
-
-\bibitem{bib:poc_rsa}
-A.~R. Meyer and M.~A. Gorin.
-\newblock {{F}irst point-of-care {P}{S}{A} test for prostate cancer detection}.
-\newblock {\em Nat Rev Urol}, 16(6):331--332, Jun 2019.
-\newblock
-  [DOI:\href{https://dx.doi.org/10.1038/s41585-019-0179-1}{10.1038/s41585-019-0179-1}]
-  [PubMed:\href{https://www.ncbi.nlm.nih.gov/pubmed/30948842}{30948842}].
-
-\bibitem{bib:lrspr_review}
-Jian-Ying Jing, Qi~Wang, Wan-Ming Zhao, and Bo-Tao Wang.
-\newblock Long-range surface plasmon resonance and its sensing applications: A
-  review.
-\newblock {\em Optics and Lasers in Engineering}, 112:103--118, 2019.
-
-\bibitem{bib:spr_simultaneous}
-Allen~D. Taylor, Jon Ladd, Qiuming Yu, Shengfu Chen, Jiří Homola, and Shaoyi
-  Jiang.
-\newblock Quantitative and simultaneous detection of four foodborne bacterial
-  pathogens with a multi-channel spr sensor.
-\newblock {\em Biosensors and Bioelectronics}, 22(5):752--758, 2006.
-
-\bibitem{bib:spr_biodetection}
-Marek Piliarik, Hana Vaisocherov{\'a}, and Ji{\v{r}}{\'i} Homola.
-\newblock {\em Biosensors and Biodetection}, pages 65--88.
-\newblock Humana Press, Totowa, NJ, 2009.
-
-\bibitem{bib:odpc_visualization}
-Irina Soboleva, Emiliano Descrovi, Lorenzo Dominici, Francesco Michelotti,
-  Fabrizio Giorgis, and Andrey Fedyanin.
-\newblock Visualization of surface electromagnetic waves in one-dimensional
-  photonic crystal by fluorescence dye.
-\newblock {\em Proceedings of SPIE - The International Society for Optical
-  Engineering}, 7356, 05 2009.
-
-\bibitem{bib:klimov_nanoplasmonics}
-Климов~В. В.
-\newblock {\em Наноплазмоника}.
-\newblock М. ФИЗМАТЛИТ, 2009.
-\newblock ISBN 978-5-9221-1030-3.
-
-\bibitem{bib:qcm_odor}
-Arief Yuwono and Peter Schulze~Lammers.
-\newblock Odor pollution in the environment and the detection instrumentation.
-\newblock 6, 11 2003.
-
-\bibitem{bib:fm_multiplex}
-B.~H. Jun, H.~Kang, Y.~S. Lee, and D.~H. Jeong.
-\newblock {{F}luorescence-based multiplex protein detection using optically
-  encoded microbeads}.
-\newblock {\em Molecules}, 17(3):2474--2490, Mar 2012.
-\newblock [PubMed
-  Central:\href{https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6268487}{PMC6268487}]
-  [DOI:\href{https://dx.doi.org/10.3390/molecules17032474}{10.3390/molecules17032474}]
-  [PubMed:\href{https://www.ncbi.nlm.nih.gov/pubmed/15047203}{15047203}].
-
-\bibitem{bib:ll}
-Лифшиц Е.~М. Ландау Л.~Д.
-\newblock {\em Теоретическая физика: Учеб. пособ.:
-  Для вузов. В 10 т. Т. VI. Гидродинамика. — 5-е
-  изд., стереот.}
-\newblock М. ФИЗМАТЛИТ, 2001.
-\newblock ISBN 5-9221-0121-8.
-
-\bibitem{bib:adsorption_reaction_principles}
-Richard~I. Masel.
-\newblock Principles of adsorption and reaction on solid surfaces.
-\newblock Wiley Interscience, 1996.
-
-\bibitem{bib:freundlich_kinetics}
-Patiha, M~Firdaus, S~Wahyuningsih, K~D Nugrahaningtyas, and Y~Hidayat.
-\newblock Derivation and constants determination of the freundlich and
-  (fractal) langmuir adsorption isotherms from kinetics.
-\newblock {\em {IOP} Conference Series: Materials Science and Engineering},
-  333:012010, mar 2018.
-
-\bibitem{bib:FULLTEXT_inverse_example}
-Fredrik Bostr{\"o}m.
-\newblock Single-cycle kinetics for qcm biosensors for high throughput
-  nanoparticle characterization application, 2016.
-
-\bibitem{bib:TCM}
-David~G. Myszka, Xiaoyi He, Micah Dembo, Thomas~A. Morton, and Byron Goldstein.
-\newblock Extending the range of rate constants available from biacore:
-  Interpreting mass transport-influenced binding data.
-\newblock {\em Biophysical Journal}, 75(2):583--594, 1998.
-
-\bibitem{bib:phys_chem_hydro_layers}
-Ronald~F. Probstein.
-\newblock {\em Physicochemical Hydrodynamics}, chapter~4, pages 53--107.
-\newblock John Wiley \& Sons, Ltd, 1994.
-
-\bibitem{bib:hairer_stiff}
-Ernst Hairer and Gerhard Wanner.
-\newblock Solving ordinary differential equations {I}{I}: Stiff and
-  differential-algebraic problems.
-\newblock 2002.
-
-\bibitem{bib:inverse_pde}
-Victor Isakov.
-\newblock {\em Inverse Problems for Partial Differential Equations}.
-\newblock Applied Mathematical Sciences. Springer Cham, 3 edition, 2017.
-\newblock
-  [DOI:\href{https://doi.org/10.1007/978-3-319-51658-5}{10.1007/978-3-319-51658-5}].
-
-\bibitem{bib:biotin_streptavidin_kinetics}
-M.~Srisa-Art, E.~C. Dyson, A.~J. deMello, and J.~B. Edel.
-\newblock {{M}onitoring of real-time streptavidin-biotin binding kinetics using
-  droplet microfluidics}.
-\newblock {\em Anal Chem}, 80(18):7063--7067, Sep 2008.
-\newblock [DOI:\href{https://dx.doi.org/10.1021/ac801199k}{10.1021/ac801199k}]
-  [PubMed:\href{https://www.ncbi.nlm.nih.gov/pubmed/18712935}{18712935}].
-
-\bibitem{bib:protein_a_b_ig_g}
-K.~Saha, F.~Bender, and E.~Gizeli.
-\newblock {{C}omparative study of {I}g{G} binding to proteins {G} and {A}:
-  nonequilibrium kinetic and binding constant determination with the acoustic
-  waveguide device}.
-\newblock {\em Anal Chem}, 75(4):835--842, Feb 2003.
-\newblock [DOI:\href{https://dx.doi.org/10.1021/ac0204911}{10.1021/ac0204911}]
-  [PubMed:\href{https://www.ncbi.nlm.nih.gov/pubmed/12622374}{12622374}].
-
-\end{thebibliography}

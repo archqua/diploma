@@ -7,13 +7,13 @@
 \contentsline {subsection}{2.4. Флуоресцентные микросферы}{9}{section*.14}%
 \contentsline {subsection}{2.5. Математическое описание релевантных физическо-химических процессов}{10}{section*.16}%
 \contentsline {subsection}{2.6. Моделирование в микрофлюидике}{15}{section*.24}%
-\contentsline {section}{3. Модели}{18}{section*.29}%
-\contentsline {subsection}{3.1. Описание задач}{18}{section*.30}%
-\contentsline {subsection}{3.2. Адсорбция на поверхность бесконечно высокого канала с одним видом сайтов связывания}{19}{section*.36}%
+\contentsline {section}{3. Модели}{19}{section*.29}%
+\contentsline {subsection}{3.1. Описание задач}{19}{section*.30}%
+\contentsline {subsection}{3.2. Адсорбция на поверхность бесконечно высокого канала с одним видом сайтов связывания}{20}{section*.36}%
 \contentsline {subsection}{3.3. Адсорбция на поверхность бесконечно высокого канала с двумя видами сайтов связывания}{24}{section*.44}%
 \contentsline {subsection}{3.4. Адсорбция на поверхность канала конечной высоты с двумя видами сайтов связывания}{30}{section*.55}%
 \contentsline {subsection}{3.5. Адсорбция на микросферах}{33}{section*.60}%
 \contentsline {section}{4. Материалы и методы}{38}{section*.68}%
 \contentsline {section}{5. Результаты}{38}{section*.69}%
-\contentsline {section}{6. Выводы}{38}{section*.70}%
+\contentsline {section}{6. Выводы}{39}{section*.70}%
 \contentsline {section}{7. Благодарности}{39}{section*.71}%

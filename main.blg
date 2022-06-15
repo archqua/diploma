@@ -1,53 +1,31 @@
-This is BibTeX, Version 0.99d (TeX Live 2022/Arch Linux)
-Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
-The top-level auxiliary file: main.aux
-The style file: unsrt.bst
-Database file #1: bibliography.bib
-Database file #2: bib/springer_handbook.bib
-Database file #3: bib/phys_chem_hydro_layers.bib
-Warning--can't use both author and editor fields in bib:spr_biodetection
-Warning--empty journal in bib:qcm_odor
-Warning--empty booktitle in bib:adsorption_reaction_principles
-Warning--empty booktitle in bib:hairer_stiff
-You've used 29 entries,
-            1791 wiz_defined-function locations,
-            648 strings with 11186 characters,
-and the built_in function-call counts, 6647 in all, are:
-= -- 563
-> -- 347
-< -- 3
-+ -- 128
-- -- 99
-* -- 495
-:= -- 1101
-add.period$ -- 99
-call.type$ -- 29
-change.case$ -- 25
-chr.to.int$ -- 0
-cite$ -- 33
-duplicate$ -- 276
-empty$ -- 624
-format.name$ -- 99
-if$ -- 1447
-int.to.chr$ -- 0
-int.to.str$ -- 29
-missing$ -- 33
-newline$ -- 159
-num.names$ -- 29
-pop$ -- 65
-preamble$ -- 1
-purify$ -- 0
-quote$ -- 0
-skip$ -- 112
-stack$ -- 0
-substring$ -- 376
-swap$ -- 44
-text.length$ -- 3
-text.prefix$ -- 0
-top$ -- 0
-type$ -- 0
-warning$ -- 4
-while$ -- 56
-width$ -- 31
-write$ -- 337
-(There were 4 warnings)
+[0] Config.pm:307> INFO - This is Biber 2.17
+[0] Config.pm:310> INFO - Logfile is 'main.blg'
+[62] biber:340> INFO - === Wed Jun 15, 2022, 15:10:59
+[73] Biber.pm:418> INFO - Reading 'main.bcf'
+[128] Biber.pm:972> INFO - Found 31 citekeys in bib section 0
+[139] Biber.pm:4383> INFO - Processing section 0
+[148] Biber.pm:4574> INFO - Looking for bibtex file 'bibliography.bib' for section 0
+[152] bibtex.pm:1713> INFO - LaTeX decoding ...
+[189] bibtex.pm:1518> INFO - Found BibTeX data source 'bibliography.bib'
+[367] Biber.pm:4574> INFO - Looking for bibtex file 'bib/springer_handbook.bib' for section 0
+[367] bibtex.pm:1713> INFO - LaTeX decoding ...
+[368] bibtex.pm:1518> INFO - Found BibTeX data source 'bib/springer_handbook.bib'
+[369] Biber.pm:4574> INFO - Looking for bibtex file 'bib/phys_chem_hydro_layers.bib' for section 0
+[369] bibtex.pm:1713> INFO - LaTeX decoding ...
+[371] bibtex.pm:1518> INFO - Found BibTeX data source 'bib/phys_chem_hydro_layers.bib'
+[400] UCollate.pm:68> INFO - Overriding locale 'ru-RU' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[400] UCollate.pm:68> INFO - Overriding locale 'ru-RU' defaults 'variable = shifted' with 'variable = non-ignorable'
+[400] Biber.pm:4203> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'ru-RU'
+[400] Biber.pm:4209> INFO - No sort tailoring available for locale 'ru-RU'
+[420] bbl.pm:654> INFO - Writing 'main.bbl' with encoding 'UTF-8'
+[440] bbl.pm:757> INFO - Output to main.bbl
+[440] Biber.pm:130> WARN - legacy month field 'Apr' in entry 'bib:poc_infectious' is not an integer - this will probably not sort properly.
+[440] Biber.pm:130> WARN - legacy month field 'Jan' in entry 'bib:capillary_protein_electrophoresis' is not an integer - this will probably not sort properly.
+[440] Biber.pm:130> WARN - legacy month field 'December' in entry 'bib:droplet_microfluidics_review' is not an integer - this will probably not sort properly.
+[440] Biber.pm:130> WARN - legacy month field 'Dec' in entry 'bib:marker_effect' is not an integer - this will probably not sort properly.
+[440] Biber.pm:130> WARN - legacy month field 'Jun' in entry 'bib:poc_rsa' is not an integer - this will probably not sort properly.
+[440] Biber.pm:130> WARN - legacy month field 'Mar' in entry 'bib:fm_multiplex' is not an integer - this will probably not sort properly.
+[440] Biber.pm:130> WARN - legacy month field 'mar' in entry 'bib:freundlich_kinetics' is not an integer - this will probably not sort properly.
+[440] Biber.pm:130> WARN - legacy month field 'Sep' in entry 'bib:biotin_streptavidin_kinetics' is not an integer - this will probably not sort properly.
+[440] Biber.pm:130> WARN - legacy month field 'Feb' in entry 'bib:protein_a_b_ig_g' is not an integer - this will probably not sort properly.
+[441] Biber.pm:132> INFO - WARNINGS: 9
